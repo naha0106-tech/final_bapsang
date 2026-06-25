@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head><title>알러지 설문조사</title></head>
+<body>
+    <h1>🍽️ 알러지 설문조사</h1>
+    <form method="POST">
+        {% for allergy in allergies %}
+            <label>
+                <input type="checkbox" name="allergy" value="{{ allergy }}"> {{ allergy }}
+            </label><br>
+        {% endfor %}
+        <button type="submit">제출</button>
+    </form>
+</body>
+</html>

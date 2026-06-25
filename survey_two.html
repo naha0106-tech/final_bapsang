@@ -1,0 +1,32 @@
+<form method="POST">
+  <h2>맵기 선택</h2>
+  <select name="spicy_level">
+    <option value="1">순한맛</option>
+    <option value="2">신라면 정도</option>
+    <option value="3">불닭 가능</option>
+  </select>
+
+  <h2>상황 선택</h2>
+    <select name="situation_comments">
+    <option value="1">스트레스</option>
+    <option value="2">야식</option>
+    <option value="3">해장</option>
+    <option value="4">다이어트</option>
+    <option value="5">안주</option>
+    <option value="6">가성비</option>
+    <option value="7">디저트</option>
+  </select>
+
+  <h2>입맛 평가</h2>
+  {% for food in foods %}
+    <label>{{ food }}</label>
+    <select name="{{ food }}">
+      <option value="1">불호</option>
+      <option value="2">보통</option>
+      <option value="3">호</option>
+      <option value="4">극호</option>
+    </select><br>
+  {% endfor %}
+
+  <button type="submit">추천 받기</button>
+</form>

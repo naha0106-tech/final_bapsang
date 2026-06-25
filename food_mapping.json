@@ -1,0 +1,14 @@
+{
+  "삼겹살": ["Grilled Pork Belly", "black pork", "black pork belly","pork belly"],
+  "마늘": ["Garlic ","garlic"],
+  "밥": ["Steamed Rice","rice"],
+  "쌈장": ["Red Chili and Soybean Paste","ssamjang"],
+  "배추김치": ["Kimchi(Baechukimchi)","kimchi"] ,
+  "상추" : ["Lettuce","lettuce"] ,
+  "콩나물 무침" : ["Bean Sprout Salad" ,"bean sprouts"],
+  "고사리 무침" : ["Bracken Salad" ,"bracken"],
+  "양파" : ["Onion","onion"],
+  "파채" : ["Scallion salad","shredded green onion"],
+  "미나리" : ["water parsley","minari","mizuna"],
+  "된장찌개" : "Soybean Paste Stew"
+}

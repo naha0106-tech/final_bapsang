@@ -1,0 +1,17 @@
+<h2>🎉 장금이가 편의점 다 털어서 찾아낸 네 맞춤형 꿀조합 TOP 3 🎉</h2>
+{% if situation %}
+  <p>✨ [오늘의 무드: {{ situation }}]</p>
+{% endif %}
+
+{% for recipe in recipes %}
+  <div class="card">
+    <h3>
+      {% if loop.index == 1 %}🥇{% elif loop.index == 2 %}🥈{% else %}🥉{% endif %}
+      [{{ loop.index }}위] {{ recipe.name }}
+    </h3>
+    <p>🔥 취향 일치율: {{ recipe.score }}%</p>
+    <p>🛒 장바구니 필수템: {{ recipe.name }}</p>
+    <p>💡 장금이의 조리법 & 꿀팁:<br>"{{ recipe.snippet }}"</p>
+    <hr>
+  </div>
+{% endfor %}

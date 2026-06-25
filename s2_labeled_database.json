@@ -1,0 +1,5338 @@
+[
+    {
+        "combination_name": "신라면 로제 치즈",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 3,
+            "salty": 4,
+            "rich": 5,
+            "sour": 2
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 4,
+            "soft": 3,
+            "thick": 5,
+            "popping": 0
+        },
+        "situations": [
+            "야식",
+            "가성비"
+        ],
+        "original_snippet": "매운맛 살짝 중화하고 더 쫀쫀한 감칠맛으로 합쳐지니 취향 저격해!"
+    },
+    {
+        "combination_name": "로제 신라면 편의점 레시피",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "야식",
+            "스트레스"
+        ],
+        "original_snippet": "/GPLU 신라면 로제맛 나왔어요!! 툼바 버전을 맛있게 먹어서 기대해봤어요... 편의점 핫바나 비엔나 구매해서 같이 먹는 거 추천!"
+    },
+    {
+        "combination_name": "보들보들 치즈볶음면",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "야식",
+            "스트레스"
+        ],
+        "original_snippet": "보들보들 치즈볶음면은 꿀조합으로 치즈를 추가로 넣어야 더 맛있다. 생각보다 맵지 않아서 종종 사 먹어야지."
+    },
+    {
+        "combination_name": "신라면 컵라면 리조또",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식",
+            "숙취"
+        ],
+        "original_snippet": "매운맛과 느끼한 맛의 완벽한 조화를 사랑하는 분에게 추천되는 이 조합은 5천 원도 안 되는 가격으로 5분 만에 고급스러운 맛을 낼 수 있어요."
+    },
+    {
+        "combination_name": "신라면 로제 컵라면 + 치즈 + 어묵바",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "신라면 로제 컵라면 7배 맛있게 먹는법 함께 해볼까요?"
+    },
+    {
+        "combination_name": "매운라면 맵탱 마늘조개 소컵",
+        "spiciness": 4,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "작은 소컵이라서 출출할 때 먹기 딱 좋고, 김치와 조미김을 넣으면 더욱 맛있다."
+    },
+    {
+        "combination_name": "공화춘 짜장과 불닭볶음면의 편의점 꿀조합",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 1
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "공화춘 짜장과 불닭볶음면의 면이 살짝 다른데 조합해서 먹어도 전혀 어색하지 않았고 담백한 맛과 달달한 맛, 매콤한 맛까지 더해져서 밸런스가 좋았어요."
+    },
+    {
+        "combination_name": "신라면 로제 컵라면 레시피",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 1
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식",
+            "숙취"
+        ],
+        "original_snippet": "신라면 로제 컵라면 레시피 알려드릴게요. 편의점 꿀조합 요리입니다."
+    },
+    {
+        "combination_name": "왕뚜껑 국물라볶이",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "왕뚜껑 국물라볶이는 분식집의 정겨운 맛을 집에서 간편하게 즐길 수 있는 제품으로, 매운맛에 약한 분들에게는 우유나 치즈를 곁들이면 딱 기분 좋게 즐길 수 있으며, 다양한 편의점에서 쉽게 구매할 수 있으며, 가성비가 좋은 2+1 행사를 진행 중이다."
+    },
+    {
+        "combination_name": "흑후추소고기라면",
+        "spiciness": 4,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "흑후추소고기라면은 흑후추와 소고기가 함유되어 있으며, 맵고 깊은 국물 맛이 매력적입니다."
+    },
+    {
+        "combination_name": "왕뚜껑 국물 라볶이",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 1
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "간편",
+            "분식집"
+        ],
+        "original_snippet": "전자레인지 5분 조리 완성 매콤달콤한 분식집 스타일 국물 라볶이 컵 형태라 언제 어디서든 간편함 다양한 사리추가로 내맘대로 만들기"
+    },
+    {
+        "combination_name": "혜자로운 시리즈 스페셜 에디션",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "숙취"
+        ],
+        "original_snippet": "컵라면과 편의점 김밥은 역시 GS25가 최고라는걸 다시 한 번 느끼게 됐어요."
+    },
+    {
+        "combination_name": "맵탱 소컵 마늘조개라면",
+        "spiciness": 4,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식",
+            "숙취"
+        ],
+        "original_snippet": "스파이시 펜타곤 중 알싸함과 칼칼함이 높고 화끈한 맛이 중간 정도에 있는데요. 먹는 내내 음미해 보면 이 세 가지 매운맛의 요소가 전달되어 균형 잡힌 매콤한 맛을 볼 수 있어요."
+    },
+    {
+        "combination_name": "용가리불비빔면",
+        "spiciness": 4,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "situations": [
+            "스트레스",
+            "숙취"
+        ],
+        "original_snippet": "용가리불비빔면은 호로록 매콤한 비빔면이 최고라며, 매운 음식은 오랫동안 사랑받았지만 올해는 특히 매운맛이 대세인듯 싶어요."
+    },
+    {
+        "combination_name": "라播报奇杯面",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            " NIGHTSNACK",
+            "STRESSFREE"
+        ],
+        "original_snippet": "라播报奇杯面的辣炒年糕和海产拉面完美结合，加上奶酪，不仅口感丰富，而且非常美味。"
+    },
+    {
+        "combination_name": "삼계탕면 보양식 조합",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "복날",
+            "보양식",
+            "간편식"
+        ],
+        "original_snippet": "하림 삼계탕면은 보양식으로 먹기 좋은 간편한 컵라면이라서 복날에 더 생각나는 편의점 메뉴입니다."
+    },
+    {
+        "combination_name": "왕뚜껑 국물라볶이",
+        "spiciness": 4,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 1
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식",
+            "숙취"
+        ],
+        "original_snippet": "라면을 잘 즐기지 않는데도 너무 맛있어서 다이어트 중인데도 단숨에 먹어버렸어요 🤭"
+    },
+    {
+        "combination_name": "매콤 칼칼 닭갈비 오뎅 전골",
+        "spiciness": 4,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "야식",
+            "술안주",
+            "캠핑"
+        ],
+        "original_snippet": "편의점 인스턴트 맛이 아니라 푹 끓인 닭볶음탕이나 닭한마리 같은 근사한 요리가 됐어요!"
+    },
+    {
+        "combination_name": "GS25 천국보다 아름다운 편의점 김밥 & 컵라면 꿀조합",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "전자레인지 700W 40초 데워주면 되는 GS25 천국보다 아름다운 원조김밥과 함께 편의점 김밥과 컵라면의 꿀조합은 정말 말이 필요 없는 꿀조합이예요."
+    },
+    {
+        "combination_name": "맵탱 흑후추소고기라면",
+        "spiciness": 4,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "야식",
+            "스트레스"
+        ],
+        "original_snippet": "작은 컵이라 가볍게 먹고 싶을 때, 야식이나 야외나 캠핑 갈 때 챙겨가도 좋겠어요."
+    },
+    {
+        "combination_name": "맵탱 흑후추소고기라면 + 소세지 조합",
+        "spiciness": 4,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "situations": [
+            "스트레스",
+            "숙취"
+        ],
+        "original_snippet": "소세지의 육향과 식감까지 더해져서 너무 맛있더라구요. 말 그대로 완전 편의점 꿀조합!"
+    },
+    {
+        "combination_name": "맵탱 소컵과 어묵의 편의점 꿀조합",
+        "spiciness": 4,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식",
+            "숙취"
+        ],
+        "original_snippet": "매운맛을 좋아하기에 맵탱 봉지라면으로 먼저 접해보았는데요. 봉지라면과 맵탱 컵라면의 맛이 별반 다르지 않기에 간편하게 함께 할 수 있는 맵탱 컵라면을 이용하고 있어요."
+    },
+    {
+        "combination_name": "몽고탄멘 + 오뎅 조합",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "매운 라멘으로 유명한 일본의 몽고탄멘과 함께 먹으니 매운 어묵탕 느낌이 나더라구요!"
+    },
+    {
+        "combination_name": "불닭볶음면 + 라면볶이",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 1
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "컵라면 꿀조합으로 불닭볶음면+라면볶이 한 번 드셔보세요^^"
+    },
+    {
+        "combination_name": "짜파게티 더블랙 사발 컵라면 + 산양유 프로틴 밀크팡 소시지",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "간편한 식사",
+            "야식"
+        ],
+        "original_snippet": "짜파게티 더블랙 사발 컵라면과 산양유 프로틴 밀크팡 소시지로 편의점 꿀조합을 만들어 보았습니다."
+    },
+    {
+        "combination_name": "감자면 매운맛 라죽 편의점 레시피 해장 컵라면",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "해장",
+            "야식"
+        ],
+        "original_snippet": "면발이 쫄깃하고 쫀득해서 맛도리. 그래 이거지~ 언제 먹어도 맛있다 진짜ㅠ 그리고 가급적이면 전자레인지를 추천드려요~ 간식, 야식으로 먹어도 좋고 술 마신 다음날 얼큰하고 깔끔하게 해장해도 좋을 것 같아요 해장 컵라면 추천드려요."
+    },
+    {
+        "combination_name": "어묵 진짬뽕",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "숙취"
+        ],
+        "original_snippet": "술안주로도 그만이고요 :)"
+    },
+    {
+        "combination_name": "북어국 끓이기 방법",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "해장",
+            "야식"
+        ],
+        "original_snippet": "북어국 레시피를 참고해서 먹는것도 완전 추천합니다요"
+    },
+    {
+        "combination_name": "미친 라면 조합 TOP5",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "야식",
+            "술안주",
+            "해장"
+        ],
+        "original_snippet": "요즘 라면은 그냥 끓여 먹기엔 너무 아깝습니다. 냉장고 재료 조금만 활용해도 진짜 가게 퀄리티 느낌까지 올라오거든요."
+    },
+    {
+        "combination_name": "열라면 튀김우동 조합",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "숙취",
+            "스트레스"
+        ],
+        "original_snippet": "열라면과 튀김우동에 뜨거운 물을 부어서 전자레인지를 돌리면 간단하게 만드실 수 있는데 저는 개인적으로 튀김우동의 국물에 칼칼함이 추가되어서 해장라면으로도 추천!!!"
+    },
+    {
+        "combination_name": "콩나물 황태 해장라면",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "숙취"
+        ],
+        "original_snippet": "천근만근 무거운 몸과 쓰린 속 때문에 고생하곤 하시죠? 배달 음식은 기다리기 힘들고, 직접 북어국을 끓이자니 재료 손질부터 막막한 그런 아침... 그럴 때 주저 말고 집 앞 편의점으로 달려가세요."
+    },
+    {
+        "combination_name": "불닭미역탕면",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "숙취",
+            "해장"
+        ],
+        "original_snippet": "완전 해장 라면이더라고요! 🍲 조리 방법 (초간단) 1️⃣ 냄비에 시판 미역국 1팩 + 물 100~200ml 넣고 끓여요. 2️⃣ 국물이 끓어오르면 불닭볶음탕면의 면 + 액상소스 전부 투하! 저는 다진 마늘도 넣어줬어요!"
+    },
+    {
+        "combination_name": "진짬뽕+삼호어묵 조합",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "숙취",
+            "스트레스"
+        ],
+        "original_snippet": "편의점 해장요리로 유명한 진짬뽕+삼호어묵 조합 난 국물이 많은걸 좋아해서 국물 많은 버전으로!"
+    },
+    {
+        "combination_name": "불닭미역탕면",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "해장",
+            "야식",
+            "혼밥메뉴"
+        ],
+        "original_snippet": "불닭미역탕면은 미역국의 부드러운 맛이 불닭의 매운맛을 중화시켜 주며, 특히 끝맛이 깔끔하고 깊어 해장용 라면 으로 강력 추천드리는 조합입니다."
+    },
+    {
+        "combination_name": "타바스코라면 핫소스라면",
+        "spiciness": 4,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 1
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "숙취",
+            "해장"
+        ],
+        "original_snippet": "몇 년만에 먹어봤는데 맛있게 먹었어요. 앞으로 한동안은 #해장라면레시포 로 자주 찾을 듯 합니다."
+    },
+    {
+        "combination_name": "사리곰탕 냉동만두",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "숙취",
+            "스트레스"
+        ],
+        "original_snippet": "진한 국물이 김치랑 같이 먹으니 진짜 최고ㅎㅎ 해장으로도 좋아요!!"
+    },
+    {
+        "combination_name": "미역불닭볶음탕면",
+        "spiciness": 4,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 2,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "숙취"
+        ],
+        "original_snippet": "미역불닭볶음탕면 레시피가 계속 언급되는 듯해요. 매운 라면인데도 부담이 덜합니다."
+    },
+    {
+        "combination_name": "미역불닭볶음탕면",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 1
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "숙취"
+        ],
+        "original_snippet": "불닭볶음탕면의 얼큰함과 미역국 특유의 시원함이 이런 맛을 만들어 줄 거라고는 먹기 전에는 생각하지 못했던 거죠."
+    },
+    {
+        "combination_name": "윤남노 해장라면",
+        "spiciness": 5,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "숙취"
+        ],
+        "original_snippet": "이거 제가 따로 넣은 게 아니라 건더기에 진짜 들어 있어요. 이렇게 큼직하게 통으로 말이죠 +_+ 그래서 더 먹음직스러워 보이는 것도 있어요."
+    },
+    {
+        "combination_name": "불닭미역탕면",
+        "spiciness": 4,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식",
+            "숙취"
+        ],
+        "original_snippet": "이 조합, 솔직히 반칙 아닌가요? 진짜 너무 맛있어요!"
+    },
+    {
+        "combination_name": "더미식 장인라면 맵싸한맛",
+        "spiciness": 5,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식",
+            "숙취"
+        ],
+        "original_snippet": "쌀쌀해지는 요즘 같은 날씨에는 야외활동이나 야식으로도 안성맞춤인 맛있는 라면 끓이는 법으로 더미식 장인라면 맵싸한맛을 소개하는데요."
+    },
+    {
+        "combination_name": "너구리 해장라면",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "숙취"
+        ],
+        "original_snippet": "집에 너구리 있으신 분들은 요렇게도 끓여 드세요. 술 마시고 온 다음날은 꼭 아침에 라면을 먹는 호갱슈는 사실 면은..."
+    },
+    {
+        "combination_name": "진짬뽕 오뎅한그릇 해장라면 조합",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "숙취",
+            "야식"
+        ],
+        "original_snippet": "술 마신 다음날 먹어서 약간 칼칼한 어묵 국물이 해장 느낌이 너무 좋았는데 혼자서도 충분히 먹을 수 있는 양이 자취하시는 분들은 저녁에 간단한 술안주로도 추천!!"
+    },
+    {
+        "combination_name": "울릉도 얼큰해장국 컵라면",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "숙취"
+        ],
+        "original_snippet": "울릉도 얼큰해장국 컵라면은 엉겅퀴가 들어가 구수한 맛과 풍미를 더해주고, 매콤칼칼한 국물 맛으로 술 마신 다음날 해장라면으로도 먹기 좋습니다."
+    },
+    {
+        "combination_name": "숙취 해소 조합",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "숙취",
+            "스트레스"
+        ],
+        "original_snippet": "술 마신 다음 날, 속은 뒤집히고 머리는 깨질 듯 아픈데 출근이나 약속까지 있다면 정말 최악이죠."
+    },
+    {
+        "combination_name": "이비가짬뽕",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "숙취"
+        ],
+        "original_snippet": "오랜만에 맛본 이비가짬뽕 총평입니다. 매장에서 먹는 것보다는 차이가 납니다. 그리고 건더기가 모자란 편입니다."
+    },
+    {
+        "combination_name": "중앙해장라면",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "해장",
+            "스트레스"
+        ],
+        "original_snippet": "호호~ 불어가면서 먹는 중앙해장라면! 먹을수록 입안이 매워지는 게~ 매콤하고 깊은 맛이 퍼져요. 콩나물과 고추를 넣었더니 더 개운하고 시원한 맛이 났어요~"
+    },
+    {
+        "combination_name": "중앙해장과의 콜라보 해장국밥",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 1
+        },
+        "situations": [
+            "숙취",
+            "스트레스"
+        ],
+        "original_snippet": "칼칼하고 시원하고 해장되는 느낌이라 편의점에서 해장 메뉴 찾는다면 추천하고 싶은 국방이에요!!"
+    },
+    {
+        "combination_name": "매운 해장라면",
+        "spiciness": 5,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "숙취"
+        ],
+        "original_snippet": "먹고 나니 언제 추웠냐는 듯 속이 뜨끈 하게 데워지면서 땀이 송송 배어 나와 운동하고 난 것 같은 기분이 들더라고요."
+    },
+    {
+        "combination_name": "해장라면 맵싸한맛",
+        "spiciness": 5,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "숙취"
+        ],
+        "original_snippet": "술을 마신 다음 날은 깔끔하고 얼큰한 국물이 생각나는데 4가지 고추의 맵싸한 맛과 진한 사골 소고기 육수가 더해져 날씨가 추우니까 더 자주 생각나는 맛이였어요"
+    },
+    {
+        "combination_name": "곰표 시리즈 맥주",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 1,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "situations": [
+            "야식",
+            "스트레스"
+        ],
+        "original_snippet": "매운 거랑 어울리는 게 깔끔, 산뜻, 과일 향 나니 마시면서 먹으니 입안에 매운 것도 중화를 하고 속 시원해져요."
+    },
+    {
+        "combination_name": "편의점 와인과 안주의 조합",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "와인입문",
+            "편의점안주",
+            "홈술"
+        ],
+        "original_snippet": "와인은 정답이 없는 기호식품입니다. 처음에는 편의점 와인 추천 목록을 참고하여 대중적인 맛을 경험해 보고, 점차 자신의 취향을 확장해 나가는 과정 자체가 즐거움입니다."
+    },
+    {
+        "combination_name": "와인 안주 조합",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 1,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "와인 안주에 대한 고정관념을 깨는 5가지 편의점 & 배달 음식 꿀조합을 소개해 드렸습니다."
+    },
+    {
+        "combination_name": "2026년 홈술 막걸리 안주 조합 베스트 5",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "2026년 홈술의 품격을 높여줄 지평막걸리 안주 조합 5가지를 소개해 드렸습니다."
+    },
+    {
+        "combination_name": "와인 안주 조합",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식",
+            "숙취"
+        ],
+        "original_snippet": "혼술족뿐만 아니라 연인과의 가벼운 기념일 홈파티용으로도 매우 유용하여 소셜 미디어에 인증샷으로 올리기 가장 좋은 비주얼을 자랑합니다."
+    },
+    {
+        "combination_name": "새벽 경기 편의점 안주 조합",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "경기가 시작되는 전반전에는 출출함을 달래줄 포만감 있는 안주가 필요합니다. 편의점 스테디셀러인 육가공 제품들은 1인분 소포장이 잘 되어 있어 잔처리가 매우 쉽습니다."
+    },
+    {
+        "combination_name": "클라우드 클리어 0.5",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "숙취",
+            "야식"
+        ],
+        "original_snippet": "맥주를 아예 안마시기엔 너무나 아쉬워서 꾸준히 논알콜맥주를 찾고 있는데요. 시원한 맥주 한 잔 마시고 싶을 때 딱 좋은 그런 맥주더라고요!"
+    },
+    {
+        "combination_name": "고퀄리티 홈술 안주 조합",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "편의점에서 쉽게 구할 수 있는 재료들로 맛과 분위기, 그리고 압도적인 가성비를 모두 잡은 '고퀄리티 홈술 안주 조합' 과 맥주를 더 맛있게 즐기는 미식 노하우를 심층적으로 다뤄보겠습니다."
+    },
+    {
+        "combination_name": "금요일 퇴근 후 편의점 안주 조합",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 1,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 1
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "일주일 동안 쌓인 업무 스트레스를 한방에 날려버리기엔 역시 매콤한 음식이 최고죠!"
+    },
+    {
+        "combination_name": "허니버터칩과 맥주 조합",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 1,
+            "salty": 1,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 1,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "퇴근 후",
+            "간단하게 한잔"
+        ],
+        "original_snippet": "퇴근 후 간단하게 한잔하고 싶어서 편의점에서 맥주와 과자를 골랐습니다. 그 중에서도 가장 무난하면서도 확실한 선택이 허니버터칩이었어요."
+    },
+    {
+        "combination_name": "단짠 조화",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 1
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "편의점에서 산 가성비 술, 안주까지 거창하게 요리하긴 귀찮을 때 와인엔 치즈 같은 뻔한 조합 말고 새로운 맛을 원할 때 실패 없는 '단짠' 페어링으로 홈술의 격을 높이고 싶을 때 만원의 행복!"
+    },
+    {
+        "combination_name": "팝컵 탕수육 + 마라탕 컵누들",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "야식",
+            "혼술"
+        ],
+        "original_snippet": "ipop컵 탕수육은 아무래도 소스에 버무려져 있으니 바삭함은 찾기 어려웠고 부드럽게 먹을 수 있는 스타일 이었어요"
+    },
+    {
+        "combination_name": "야외 테이블에서 즐기는 편의점 맥주 안주 꿀조합",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 1,
+            "salty": 1,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "야외에서 바람을 맞으며 캔맥주 한 모금에 맛있는 간식을 곁들이니, 한 주 동안 쌓였던 피로가 싹 날아가는 기분이더라고요."
+    },
+    {
+        "combination_name": "쿠지라이식 라면 GS 편의점 꿀조합 레시피",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 1
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "자극적인 입맛을 가진 분들이라면 더욱 좋아할 맛, 저녁 겸 야식으로 맥주 한 캔 따서 맥주 안주로 먹어도 좋을 것 같아요."
+    },
+    {
+        "combination_name": "질러 클래식 육포",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "맥주안주",
+            "야식"
+        ],
+        "original_snippet": "맥주안주로 딱이지 뭐! 편의점 질러 클래식 육포는 기분 좋은 감칠맛을 자랑하며, 편의성과 위생성이 좋습니다."
+    },
+    {
+        "combination_name": "편의점 간식과 위스키의 조화",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 2,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 1,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "퇴근길",
+            "비즈니스 미팅",
+            "데이트",
+            "혼술"
+        ],
+        "original_snippet": "일상적인 간식과의 조합을 통해 위스키의 매력을 알아가다 보면, 자연스럽게 조금 더 전문적인 서브와 정교한 풍미의 결을 느껴보고 싶은 갈증이 생기기 마련입니다."
+    },
+    {
+        "combination_name": "퇴근 후 편의점 맥주안주 조합 BEST 5",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 1,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "퇴근 후 드라마나 영화 한 편 보면서 가볍게 혼술하기에 이만한 조합이 또 있을까요?"
+    },
+    {
+        "combination_name": "맥주와 안주의 조합",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 1,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "힐링"
+        ],
+        "original_snippet": "퇴근 후에 한 잔 마시는 시원하고 개운한 맥주는 제 삶에 꽤나 큰 활력소가 되는 것 같습니다."
+    },
+    {
+        "combination_name": "클라우드 논알콜릭과 먹태구이 조합",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 0,
+            "sour": 1
+        },
+        "texture": {
+            "crispy": 1,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "체중 감량",
+            "야식"
+        ],
+        "original_snippet": "논알콜 맥주 중 최고였다고 말하고 싶었어요. 논알콜 맥주는 가볍게 한 잔 하면서도 도수도 1도 미만이라서 다음날 부담 없어 좋았어요. 특히 저는 체중 감량 중에는 칼로리에 민감한 편인데 350ml가 일반 맥주 칼로리의 38%인 고작 50kcal라서 부담 없이 마시기에 딱 좋았었어요!"
+    },
+    {
+        "combination_name": "맥앤치즈그라탕과 크래커 조합",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 1,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "혼술",
+            "홈술"
+        ],
+        "original_snippet": "CU편의점안주 와 같이 구입해 보시길 추천해요."
+    },
+    {
+        "combination_name": "오감자 오지치즈후라이",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 1,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "야식",
+            "맥주 안주"
+        ],
+        "original_snippet": "오감자 오지치즈후라이 한입 먹자마자… \"아 이건 맛없없 조합이다\" 싶었어요 ㅋㅋㅋ 오감자의 바삭짭짤함 + 치즈의 꾸덕고소함 = 👍"
+    },
+    {
+        "combination_name": "새파란위스키 골든블루 쿼츠 미니샷잔 패키지",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 4,
+            "salty": 0,
+            "rich": 3,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "홈파티",
+            "캠핑",
+            "연말 모임"
+        ],
+        "original_snippet": "골든블루 쿼츠는 36.5도의 저도수 위스키라 얼음이나 과즙을 섞어서 칵테일을 만들지 않아도 부담 없이 그대로 마시기 참 좋았어요."
+    },
+    {
+        "combination_name": "얼려먹는 샤베트볼 하이볼",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 1,
+            "salty": 0,
+            "rich": 1,
+            "sour": 1
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "숙취",
+            "달콤한 술"
+        ],
+        "original_snippet": "달달한 맛이 찐~했던 피치맛 은 특히 매콤한 떡볶이랑 궁합이 좋았어요! 매운맛을 얼샤가 중화시켜주면서 입을 깔끔하게 해주더라고요."
+    },
+    {
+        "combination_name": "고추장마요맛 먹태깡",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 1
+        },
+        "texture": {
+            "crispy": 1,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "맥주안주"
+        ],
+        "original_snippet": "열자마자 고추장의 자극적인 냄새가 확~~ 올라오는 게 첫인상부터 강렬했고, 식감도 바삭바삭하고 풍부한 감칠맛, 매콤하면서도 은근히 자극적인 맛이었습니다."
+    },
+    {
+        "combination_name": "생레몬하이볼",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 1
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 1
+        },
+        "situations": [
+            "야식"
+        ],
+        "original_snippet": "생레몬 과육이 그대로 들어있어 향긋함과 상큼함이 2배"
+    },
+    {
+        "combination_name": "생레몬하이볼 & 연반육반",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 1
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "야식",
+            "편의점술",
+            "스트레스"
+        ],
+        "original_snippet": " CU 생레몬하이볼 총평 1. 1캔 500ml 대용량으로 혼술하기 좋은 양 2. 진한 위스키향이 아닌 가벼운 진토닉맛 3. 8.3% 도수로 적당한 알콜 함량 4. 여름에 잘 어울리는 청량한 맛 5. 일식 안주류와 궁합이 좋은 편의점 하이볼 6. 안주 꿀조합 연어 육회, 일식, 매운 음식"
+    },
+    {
+        "combination_name": "편의점 꿀조합 레시피",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 1,
+            "salty": 0,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 1,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "달달 부드러운 아이스크림에 바삭 고소한 에이스의 만남. 마지막에 과자가 가지고 있는 특유 짭조름함이 탁 느껴지면서 입안을 한번 싹 정리해 주는데…계속 손이 가는 편의점 디저트 꿀조합 레시피 예요 :)"
+    },
+    {
+        "combination_name": "바나나우유와 커피의 조합",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 1,
+            "salty": 0,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "취향"
+        ],
+        "original_snippet": "달달하면서 쌉싸름한 맛의 커피 편의점 꿀 조합 디저트 만들기 보여드리겠습니다."
+    },
+    {
+        "combination_name": "당과점 말차레몬 크림슈 & 피스타치오 초코칩롤",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 1,
+            "salty": 0,
+            "rich": 1,
+            "sour": 1
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "디저트",
+            "스트레스"
+        ],
+        "original_snippet": "당과점 말차레몬 크림슈와 피스타치오 초코칩롤의 만남은 꿀조합이며, 서로가 가지고 있지 않은 식감과 맛으로 함께 먹으면 더욱 좋습니다."
+    },
+    {
+        "combination_name": "일본 로손 편의점 디저트",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 1,
+            "salty": 0,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식",
+            "숙취"
+        ],
+        "original_snippet": "일본 편의점 디저트는 단순한 간식이 아니라 일상 속 디저트 문화의 결정체 같아요~!"
+    },
+    {
+        "combination_name": "흑백요리사 나폴리맛피아 티라미수",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 1,
+            "chewy": 1,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "흑백요리사 나폴리맛피아 티라미수 편의점 레시피 밤티라미수 편의점 꿀조합 편의점 디저트"
+    },
+    {
+        "combination_name": "일본 세븐일레븐 간식 조합",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 3,
+            "salty": 2,
+            "rich": 2,
+            "sour": 1
+        },
+        "texture": {
+            "crispy": 2,
+            "chewy": 1,
+            "soft": 2,
+            "thick": 1,
+            "popping": 1
+        },
+        "situations": [
+            "스트레스",
+            "숙취",
+            "야식"
+        ],
+        "original_snippet": "일본 세븐일레븐에서 꼭 경험해봐야 할 간식 데이터들을 정리해봤습니다!"
+    },
+    {
+        "combination_name": "꿀호떡 에어프라이어 디저트",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 5,
+            "salty": 0,
+            "rich": 3,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 4,
+            "chewy": 0,
+            "soft": 2,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "숙취",
+            "오후시간대"
+        ],
+        "original_snippet": "집에서도 간단하게 즐길 수 있는 편의점 꿀조합 디저트 만들어 보았는데, 저녁에 남편에게 내어주니 맛있다면서 금방 다 먹더라고요."
+    },
+    {
+        "combination_name": "연세우유 말차 크림 카스테라",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 1,
+            "salty": 0,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "디저트"
+        ],
+        "original_snippet": "연세우유 말차 크림 카스테라는 가성비와 맛을 모두 잡은 훌륭한 디저트입니다. 부드러운 카스테라와 진한 말차 크림이 조화를 이뤄 풍미가 훨씬 더 살아나는 제품입니다."
+    },
+    {
+        "combination_name": "단팥빵 + 설레임",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 4,
+            "salty": 0,
+            "rich": 2,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 2,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "아이들과 함께"
+        ],
+        "original_snippet": "단팥빵과 설레임의 조합이 굉장히 만족스러웠고 생각보다 설레임이 많이 들어 가지 않아서 들어가져 있지 않은 부분은 남은 설레임 으로 더 뿌려서 먹으면 맛있게 즐길 수 있어요"
+    },
+    {
+        "combination_name": "말차 디저트 레시피 BEST3",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 1,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "말차초코 아이스크림과 소금빵을 함께 먹으면 끝인 초간단 레시피인데 맛이 굉장히 잘 어울렸어요!"
+    },
+    {
+        "combination_name": "조지아 커피 & 오하요 푸딩",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 4,
+            "salty": 1,
+            "rich": 3,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 4,
+            "thick": 0,
+            "popping": 1
+        },
+        "situations": [
+            "스트레스",
+            "숙취"
+        ],
+        "original_snippet": "달콤쌉쌀한 편의점 간식 추천 조합! 나를 위한 소확행으로 조지아 커피와 오하요 푸딩 페어링을 경험해보세요."
+    },
+    {
+        "combination_name": "일본 편의점 추천 간식",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 2,
+            "salty": 1,
+            "rich": 3,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 1,
+            "chewy": 2,
+            "soft": 2,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식",
+            "숙취"
+        ],
+        "original_snippet": "로손은 정말 디저트 맛집으로 이미 한국 분들에게 유명한데요. 그중 모찌 식감롤은 십 년 이상 인기가 굉장히 많은데 일본 놀러 이거 한 번쯤은 무조건 사 드실 거예요."
+    },
+    {
+        "combination_name": "오뚜기 콕콕콕 라면볶이 + 체다치즈 + 소시지 + 테이크핏 바나나맛",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 3,
+            "salty": 4,
+            "rich": 2,
+            "sour": 1
+        },
+        "texture": {
+            "crispy": 1,
+            "chewy": 2,
+            "soft": 3,
+            "thick": 1,
+            "popping": 1
+        },
+        "situations": [
+            "스트레스",
+            "간식"
+        ],
+        "original_snippet": "편의점 꿀조합 레시피로 세븐일레븐 2+1 행사 제품들을 활용해 만든 라면볶이와 체다치즈, 소시지, 테이크핏 바나나맛 디저트를 함께 즐겼습니다."
+    },
+    {
+        "combination_name": "성수310 얼음컵커피 & 디저트",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식",
+            "숙취"
+        ],
+        "original_snippet": "성수310 얼음컵커피와 다양한 디저트 조합을 한 번에 경험할 수 있어 만족도가 높았습니다."
+    },
+    {
+        "combination_name": "알밤막걸리 케이크",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 1,
+            "salty": 0,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "편의점 재료 중 중요한건 알밤 막걸리 입니다 빵의 촉촉함을 담당합니다 원래는 럼을 사용하지만 알밤막걸리를 바릅니다 흔들면 텁텁해지기 때문에 흔들지 않고 사용해요"
+    },
+    {
+        "combination_name": "⚗️꿀조합 디저트⚗️",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 4,
+            "salty": 0,
+            "rich": 2,
+            "sour": 1
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 2,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "숙취",
+            "가족과 함께"
+        ],
+        "original_snippet": "추석 연휴 가족과 함께 즐기는 간식 타임 나만의 편의점 디저트 꿀조합"
+    },
+    {
+        "combination_name": "망고킥 애망빙 꿀조합",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 4,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 3,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "망고 향이 생각보다 진함, 파삭하고 사르르 녹는 식감, 부담스럽게 달지 않아서 계속 손이 감"
+    },
+    {
+        "combination_name": "엑설런트 + 참크래커 샌드",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 3,
+            "salty": 2,
+            "rich": 2,
+            "sour": 1
+        },
+        "texture": {
+            "crispy": 3,
+            "chewy": 2,
+            "soft": 1,
+            "thick": 0,
+            "popping": 2
+        },
+        "situations": [
+            "스트레스",
+            "홈파티",
+            "걸스데이"
+        ],
+        "original_snippet": "비스켓은 다 좋나? 생각해봤는데 에이스나 빠다코코넛 엄마손파이 등 다른 비스켓은 그 기본 맛이 너무 강해서 어울리지 않을것 같고, 참크래커같이 공기층이 있는 과자와 함께 부드러우면서 약간 무거운 느낌이 있는 엑설런트가 꿀조합이더라구요."
+    },
+    {
+        "combination_name": "여름 청량 간식 조합",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 4,
+            "salty": 0,
+            "rich": 0,
+            "sour": 1
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 3,
+            "thick": 0,
+            "popping": 2
+        },
+        "situations": [
+            "다이어트",
+            "숙취",
+            "야식"
+        ],
+        "original_snippet": "뚜또밀감과 라라스윗 제로 아이스크림 조합은 여름철 당이 떨어질 때 텁텁한 디저트 말고 이런 간단한 청량 조합 어떠세요?"
+    },
+    {
+        "combination_name": "조지아 블랙 커피와 오하요 저지우유푸딩의 페어링",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 1,
+            "salty": 0,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "바쁜 일상 속에서 잠시 멈춰 서서 달콤한 디저트와 깔끔한 커피 한 잔으로 여유를 즐기고 싶으시다면 이 조합을 경험해 보시길 추천합니다."
+    },
+    {
+        "combination_name": "2026 편의점 신상",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 1
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "퇴근 후 스트레스가 살짝 녹는 느낌이랄까요."
+    },
+    {
+        "combination_name": "뉴룽지 + 투게더 아이스크림",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 4,
+            "salty": 0,
+            "rich": 2,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 3,
+            "chewy": 0,
+            "soft": 2,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "심심할 때",
+            "귀찮을 때"
+        ],
+        "original_snippet": "달콤하고 고소하고 바삭한데 아이스크림의 부드러움까지 더해져서 디저트 전문점 온 기분!!"
+    },
+    {
+        "combination_name": "매일 바이오 요거트 파르페",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 1,
+            "sour": 1
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "홈파티"
+        ],
+        "original_snippet": "새콤달콤상큼 단맛이 강하지 않고 크리미한 부드러움과 텁텁함 없이 담백하고 깔끔한 맛이라 마지막까지 맛있어요."
+    },
+    {
+        "combination_name": "꿀조합 도라야끼 + 찰떡아이스",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 4,
+            "salty": 0,
+            "rich": 2,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 2,
+            "soft": 3,
+            "thick": 0,
+            "popping": 1
+        },
+        "situations": [
+            "스트레스",
+            "숙취"
+        ],
+        "original_snippet": "buat 간단하면서도 맛도 있고 남녀노소 누구나 좋아할 것 같은 달달하고 시원한 디저트 꿀조합 알려드리려구요."
+    },
+    {
+        "combination_name": "조지아 커피 & 편의점 디저트 조합",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 1,
+            "salty": 0,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "편의점 조합 추성훈 아저씨가 추천하는 편의점 디저트와 조지아 커피의 꿀조합을 찾아보았습니다."
+    },
+    {
+        "combination_name": "직장인 다이어트 조합",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식",
+            "숙취"
+        ],
+        "original_snippet": "20년 차 트레이너 피토링의 한마디 다이어트 식단은 대단하고 거창한 것이 아니에요. 닭가슴살 도시락을 매일 싸지 못했다고 해서 자책하거나 \"에라 모르겠다\" 하고 폭식할 필요도 전혀 없거든요."
+    },
+    {
+        "combination_name": "편의점 다이어트 식단",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "야식",
+            "스트레스"
+        ],
+        "original_snippet": "편의점 다이어트 충분히 가능하다. 실패 원인은 음식이 아니라 조합이다. 단백질 중심으로 구성해야 한다. 샐러드 + 단백질 조합이 핵심 성분표 확인이 결과 차이를 만든다."
+    },
+    {
+        "combination_name": "다이어트 편의점 식단 조합",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "헬스장 가기 전이나 퇴근 후 급하게 한 끼를 해결해야 할때, 영양 성분 완벽한 이 조합들을 기억하세요!"
+    },
+    {
+        "combination_name": "편의점 다이어트 식단 조합",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스"
+        ],
+        "original_snippet": "바쁜 직장인분들이 가득한 가산디지털단지! 매번 닭가슴살 도시락을 싸 오기도 힘들고, 칼로리가 부담스러워 고민이 많으셨죠?"
+    },
+    {
+        "combination_name": "다이어트 편의점 식단 BEST 조합",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "다이어트",
+            "운동 전후"
+        ],
+        "original_snippet": "다이어트 식단에서 가장 중요한 것은 단순한 칼로리 제한이 아니라 몸에 필요한 영양소를 균형 있게 섭취하는 것입니다."
+    },
+    {
+        "combination_name": "다이어트 식단 조합",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "간편함"
+        ],
+        "original_snippet": "귀찮을 때 이거 드시면 됩니다 ✔탄수 + 단백질 밸런스 ✔간편함"
+    },
+    {
+        "combination_name": "편의점 다이어트 식단 조합",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식",
+            "숙취"
+        ],
+        "original_snippet": "편의점 다이어트 식단 조합은 직장인을 위한 현실적인 다이어트 방법으로, 다양한 상황에 맞춘 식단 조합을 제공합니다."
+    },
+    {
+        "combination_name": "편의점 다이어트 식단 조합",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "운동 전",
+            "운동 후",
+            "야식"
+        ],
+        "original_snippet": "편의점 식단은 잘못 선택하면 오히려 과도한 나트륨과 당 섭취 로 이어질 수 있지만, 반대로 기본 원칙만 알고 접근하면 바쁘거나 마땅히 주변에 먹을것이 없을때에도 비교적 접근하기 쉬운 현실적인 관리 수단 이 될 수 있습니다."
+    },
+    {
+        "combination_name": "삼각김밥+구운란+프로틴 음료",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 1,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스"
+        ],
+        "original_snippet": "삼각김밥(참치마요 제외) + 구운란 2알 + 프로틴 음료 가장 간편하면서도 영양 밸런스가 훌륭해 많은 직장인과 학생분들이 애용하는 조합입니다."
+    },
+    {
+        "combination_name": "안양동 피티 추천 편의점 다이어트",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "바쁜 직장인"
+        ],
+        "original_snippet": "바쁜 직장인 회원님들 다이어트 점심 식단 어렵지 않으신가요?"
+    },
+    {
+        "combination_name": "편의점 다이어트 식단 조합",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식",
+            "건강관리"
+        ],
+        "original_snippet": "바쁜 일상 속에서도 포기하지 않고 꾸준히 노력하면 분명 좋은 결과가 있을 거예요"
+    },
+    {
+        "combination_name": "편의점 다이어트 식단",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "2026년 최신 상품 트렌드와 영양학적 데이터를 기반으로, 탄단지 밸런스가 완벽한 편의점 저칼로리 꿀조합 10가지를 제안합니다."
+    },
+    {
+        "combination_name": "편의점 다이어트 조합",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "편의점에서 쉽게 구할 수 있는 제품들로 맛있고 균형 잡힌 다이어트 식단 조합 7가지 를 소개합니다."
+    },
+    {
+        "combination_name": "스트레스 해소용 편의점 다이어트 조합",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스"
+        ],
+        "original_snippet": "자극적인 음식이 당겨서 다이어트를 포기하고 싶을 때 유용한 '치트키' 조합입니다."
+    },
+    {
+        "combination_name": "편의점 다이어트 조합",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스"
+        ],
+        "original_snippet": "바빠서 식단 도시락 못 싸왔는데 편의점에서 뭐 먹죠?"
+    },
+    {
+        "combination_name": "CU 편의점 다이어트 식단 조합",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "다이어트"
+        ],
+        "original_snippet": "편의점 다이어트 식단 조합 (1위~5위) 1. 닭가슴살 + 삼각김밥 (총 285kcal)"
+    },
+    {
+        "combination_name": "편의점 다이어트 식단 조합",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "숙취"
+        ],
+        "original_snippet": "편의점에서도 비교적 균형 있는 식사를 만들 수 있습니다. 단백질 식품 하나 선택하기 채소 또는 과일 추가하기 당이 높은 디저트는 줄이기"
+    },
+    {
+        "combination_name": "편의점 다이어트 식단 조합",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "간편",
+            "건강",
+            "다이어트"
+        ],
+        "original_snippet": "편의점 다이어트 식단을 성공적으로 구성하려면 단백질과 식이섬유 위주로 선택하고, 탄수화물과 당류 함량을 확인하는 것이 핵심입니다."
+    },
+    {
+        "combination_name": "다이어트 편의점 식품 조합",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "다이어트",
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "바쁜 일상 속 다이어트 하시기 힘드시죠? 오늘 빅브로짐 방배점이 편의점에서 쉽게 구매할 수 있는 다이어트 제품들을 알려드리겠습니다!"
+    },
+    {
+        "combination_name": "GS25와 CU의 다이어트 식단 가이드",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "매일 아침 닭가슴살 냄새 맡으며 도시락 싸는 게 운동보다 힘들어요... 그래서 오늘은 원흥역 헬스장 짐민호가 원흥 주민분들의 소중한 시간을 아껴줄, 'GS25와 CU에서 끝내는 대기업 자본의 다이어트 식단 가이드'를 준비했습니다!"
+    },
+    {
+        "combination_name": "편의점 다이어트 식단 조합",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "야식",
+            "스트레스"
+        ],
+        "original_snippet": "편의점에서 먹으면 좋은 음식 카테고리 추천 아이템 (Must-Buy) 단백질 훈제 닭가슴살, 크래미, 두부봉 나트륨이 걱정된다면 생수 한 모금 더!"
+    },
+    {
+        "combination_name": "다이어트 편의점 식단 조합",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "매운 떡볶이나 라면이 미치도록 당긴다, 매콤하고 자극적인 게 당길 때"
+    },
+    {
+        "combination_name": "편의점 다이어트 식단 조합",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식",
+            "숙취"
+        ],
+        "original_snippet": "점심 회식이 잦은 대리님들을 위한 편의점 다이어트 식단 조합을 소개합니다."
+    },
+    {
+        "combination_name": "편의점 다이어트 메뉴 조합",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식",
+            "숙취"
+        ],
+        "original_snippet": "배를 채우기 좋게 감동란 1알, 두유 1팩, 바나나 1개를 한 번에 먹으면 적당히 만족할 수 있습니다."
+    },
+    {
+        "combination_name": "편의점 다이어트 꿀조합 BEST 3",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "바쁘다는 핑계로 다이어트를 포기하지 마세요! 출퇴근길 편의점만 잘 활용해도 훌륭한 유지어터가 될 수 있습니다."
+    },
+    {
+        "combination_name": "영남이공대학교 편의점 음료 레시피",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 1,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "숙취",
+            "시험기간"
+        ],
+        "original_snippet": "우리 영남이공대 학생분들 너무 열심히 하느라 밤에 잠도 못 자고 공부하고 계시진 않으신가요?"
+    },
+    {
+        "combination_name": "피크닉 레몬 복숭아 청포도 음료수",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 3,
+            "salty": 0,
+            "rich": 2,
+            "sour": 1
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 2,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "매운 음식과 곁들여 먹기 좋은",
+            "달콤한 음료수 찾기"
+        ],
+        "original_snippet": "피크닉 레몬 복숭아 청포도 음료수 편의점 간식 매운 음식 꿀조합 편의점 꿀조합 ⓒ 달코미의 먹방 다이어리"
+    },
+    {
+        "combination_name": "밀키스 & 망고 & 요거트 조합",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 1,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "홈카페"
+        ],
+        "original_snippet": "남은 망고음료는 플레인요거트와 2:1 비율로 섞어주면?? 진짜 최강짱 맛있는 망고요거트 탄생!!!"
+    },
+    {
+        "combination_name": "편의점 음료 꿀조합",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 1,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식",
+            "숙취"
+        ],
+        "original_snippet": "편의점 음료 꿀조합 음료수만 섞으면 아이들도 마실 수 있고 보드카나 위스키 섞으면 칵테일로 마실 수 있다."
+    },
+    {
+        "combination_name": "얼박사 비율 레시피",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 1,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "피곤함",
+            "술 후"
+        ],
+        "original_snippet": "골고루 섞어 드셔야 두 가지 맛을 모두 느낄 수 있으니 꼭 섞어 드세요."
+    },
+    {
+        "combination_name": "딸기수박에이드와 얼박사 조합",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 1,
+            "salty": 0,
+            "rich": 0,
+            "sour": 1
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "매운 음식 먹을 때"
+        ],
+        "original_snippet": "딸기우유와 수박 에이드를 1:1 비율로 섞어 만든 딸기수박에이드는 맛이 좋고, 박카스와 사이다를 1:1 비율로 섞어 만든 얼박사는 청량감이 넘칩니다."
+    },
+    {
+        "combination_name": "당뇨 환자를 위한 간식 조합",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "당뇨"
+        ],
+        "original_snippet": "편의점에서 간단히 간식을 고를 때, 당뇨 환자라면 혈당 관리가 가장 신경 쓰이기 마련이에요."
+    },
+    {
+        "combination_name": "곰표 시리즈 맥주",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 1,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "situations": [
+            "야식",
+            "스트레스"
+        ],
+        "original_snippet": "매운 거랑 어울리는 게 깔끔, 산뜻, 과일 향 나니 마시면서 먹으니 입안에 매운 것도 중화를 하고 속 시원해져요."
+    },
+    {
+        "combination_name": "바리스타룰스 커피 꿀조합",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "야식",
+            "스트레스"
+        ],
+        "original_snippet": "달콤한 바닐라 푸딩에 진한 디카페인 에스프레소 라떼가 섞여서 완전 고급 디저트를 맛보는 기분이었어요."
+    },
+    {
+        "combination_name": "편의점 다이어트 꿀조합",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "편의점은 정크푸드만 가득한 유혹의 공간이 아닙니다. 어떤 시선으로 바라보느냐에 따라, 바쁜 당신을 위한 가장 훌륭하고 다정한 건강 창고가 될 수 있습니다."
+    },
+    {
+        "combination_name": "생활 밀착형 다이어트 팁",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "다이어트와 운동은 얼마나 극단적으로 하느냐가 아니라, 얼마나 내 일상 속에 자연스럽게 스 menn, 를게 하느냐의 싸움인 것 같아요."
+    },
+    {
+        "combination_name": "김량장동 PT 꿀조합 A",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "운동 후"
+        ],
+        "original_snippet": "김량장동 PT 꿀조합 A: 더단백 드링크(초코) + 하림 닭가슴살 블랙페퍼"
+    },
+    {
+        "combination_name": "편의점 음료수 레시피",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 1,
+            "salty": 0,
+            "rich": 0,
+            "sour": 1
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "방학",
+            "스트레스"
+        ],
+        "original_snippet": "스마트가 직접 만들고 먹어본 편의점 음료수 레시피 어땠어?? 지금 당장 만들어 먹어 보고 싶은 비쥬얼 아니야?"
+    },
+    {
+        "combination_name": "편의점 꿀 조합",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 1,
+            "salty": 1,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "야식"
+        ],
+        "original_snippet": "야심한 새벽, 배는 고프고, 야식을 먹기에는 양이 많을 것 같고,,, 고민하다가 편의점 꿀 조합을 해보았다"
+    },
+    {
+        "combination_name": "편의점 우유 레시피 조합",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 1,
+            "salty": 0,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "편의점 우유 레시피 조합으로 만든 다양한 라떼와 프로틴미쯔라떼"
+    },
+    {
+        "combination_name": "편의점 숙취해소 꿀조합",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "술자리",
+            "숙취",
+            "스트레스"
+        ],
+        "original_snippet": "술 다 마시고 집으로 돌아가는 길.. 이때가 진짜 고비잖아요 세상은 흔들리고 속은 울렁거리고 당장이라도 눕고 싶은 그 마음 제가 너무 잘 알아요"
+    },
+    {
+        "combination_name": "숙취해소 꿀조합",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "숙취",
+            "스트레스"
+        ],
+        "original_snippet": "스트레스, 숙취 상태의 분들을 위해 준비된 숙취해소법 심화 과정입니다."
+    },
+    {
+        "combination_name": "용가리불비빔면 냉면 육수 조합",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 1
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "야식",
+            "숙취"
+        ],
+        "original_snippet": "용가리불비빔면은 청양고추와 하바네로로 매운 맛을 낸 비법소스가 들어간 컵라면 비빔면입니다."
+    },
+    {
+        "combination_name": "밀크믹스프레소",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 1,
+            "salty": 0,
+            "rich": 1,
+            "sour": 0
+        },
+        "situations": [
+            "스트레스",
+            "술 후"
+        ],
+        "original_snippet": "밀크프라페는 달달하면서도 깔끔한 맛이라 에스프레소랑 잘 어울리더라고요. 생각보다 커피 맛이 꽤 진해서 맛있었어요."
+    },
+    {
+        "combination_name": "백패커 2 파워박갈배",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 1,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "블로그 글 쓰면서 한 번도 졸지 않았던 점이었는데요! 확실히 들어간 재료들을 생각하면 잠잘 생각을 하면 안 됐을지도 모르겠습니다."
+    },
+    {
+        "combination_name": "황치즈 쫀득초코칩 + 톡소다 히비스커스",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 4,
+            "salty": 1,
+            "rich": 3,
+            "sour": 1
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 3,
+            "soft": 0,
+            "thick": 0,
+            "popping": 1
+        },
+        "situations": [
+            "스트레스",
+            "숙취"
+        ],
+        "original_snippet": "달달한 초코칩의 맛과 찰떡의 고소함이 잘 어우러져서, 오후 시간대나 스트레스 받을 때 당 충전용 디저트로 즐기기에 아주 제격이에요."
+    },
+    {
+        "combination_name": "편의점 음료수 꿀조합 레시피",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 1,
+            "salty": 0,
+            "rich": 0,
+            "sour": 1
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "숙취"
+        ],
+        "original_snippet": "딸기우유 수박에이드는 수박바 아이스크림 아시죠? 수박바 좋아하시는 분들께 추천드려용"
+    },
+    {
+        "combination_name": "편의점 간식 조합",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 3,
+            "salty": 2,
+            "rich": 2,
+            "sour": 1
+        },
+        "texture": {
+            "crispy": 2,
+            "chewy": 2,
+            "soft": 2,
+            "thick": 1,
+            "popping": 1
+        },
+        "situations": [
+            "야식",
+            "스트레스"
+        ],
+        "original_snippet": "편의점에서 간식을 살 때 평소보다 조금 더 창의적으로 생각해보는 것도 좋겠다."
+    },
+    {
+        "combination_name": "GS25 쫀득버터떡빵",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 1,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "야식"
+        ],
+        "original_snippet": "GS25 쫀득버터떡빵은 에어프라이어 180도에서 5분 돌리는 게 신의 한 수예요. 테두리는 바삭해지고 속은 떡처럼 늘어나는데 버터 향이 집안 가득 퍼지는 게 정말 행복해지는 맛이죠."
+    },
+    {
+        "combination_name": "여름 시원ness 조합",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 1,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식",
+            "숙취"
+        ],
+        "original_snippet": "연일 평년 기온을 웃도는 초여름 폭염 때문에 가만히 있어도 진이 다 빠지는 목요일 🫠."
+    },
+    {
+        "combination_name": "CU 편의점 꿀조합",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "일요일 밤, CU 꿀조합과 함께 월요일을 맞이할 에너지를 충전해 보시는 건 어떨까요?"
+    },
+    {
+        "combination_name": "일본 편의점 세븐일레븐 간식 추천",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 1,
+            "salty": 0,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "숙취",
+            "스트레스"
+        ],
+        "original_snippet": "술을 못먹는 분들께는 저알콜 사와(호로요이 등)나 논알콜맥주 를 추천하고, 도수가 좀 있어도 괜찮은 분들께는 사진상 오른쪽의 효게츠(빙결) 을 추천한다."
+    },
+    {
+        "combination_name": "왕뚜껑 라볶이",
+        "spiciness": 4,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 0,
+            "thick": 0,
+            "popping": 1
+        },
+        "situations": [
+            "스트레스",
+            "야식",
+            "숙취"
+        ],
+        "original_snippet": "왕뚜껑 라볶이의 정체, 스펙부터 꼼꼼하게 따져보기 우선 이 녀석의 '프로필'부터 살펴볼까요?"
+    },
+    {
+        "combination_name": "뉴룽지 + 투게더 아이스크림",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 4,
+            "salty": 0,
+            "rich": 2,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 4,
+            "chewy": 0,
+            "soft": 2,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "심심할 때",
+            "귀찮을 때"
+        ],
+        "original_snippet": "달콤하고 고소하고 바삭한데 아이스크림의 부드러움까지 더해져서 디저트 전문점 온 기분!!"
+    },
+    {
+        "combination_name": "오사카 편의점 야식 파티",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 2,
+            "salty": 3,
+            "rich": 2,
+            "sour": 1
+        },
+        "texture": {
+            "crispy": 2,
+            "chewy": 1,
+            "soft": 2,
+            "thick": 1,
+            "popping": 1
+        },
+        "situations": [
+            "스트레스",
+            "야식",
+            "숙취"
+        ],
+        "original_snippet": "오사카의 밤거리를 걷다 보면 어느 순간 발걸음이 느려집니다. 낮에는 관광지 중심으로 움직이지만, 밤에는 감각이 더 예민해지기 때문입니다."
+    },
+    {
+        "combination_name": "삼육두유 크림도넛",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "간식",
+            "스트레스"
+        ],
+        "original_snippet": "크림이 너무 달지도 않고 너무 가볍지도 않은 삼육두유 의 장점 그 자체 느낌."
+    },
+    {
+        "combination_name": "이탈리안 비엠티",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "야식"
+        ],
+        "original_snippet": "서브웨이의 베스트 판매 1위 메뉴인 이탈리안 비엠티를 소개해드리며, 토핑을 추가하면 더욱 맛있다."
+    },
+    {
+        "combination_name": "비빔면 + 갈비만두",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 1
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "숙취",
+            "스트레스"
+        ],
+        "original_snippet": "바르다 김선생은 이렇게 김밥싸는 모습을 외부에서 볼 수 있어요! 이 서랍을 열자마자 ptsd.... ^_^ 테이블이 나무라서 물기가 있으면 절대 안됐거든요 그래서 숟가락, 젓가락 물기를 식기 닦는 천으로 엄청 빡세게 닦았어야 했어요.. ㅎㅎ"
+    },
+    {
+        "combination_name": "까르보불닭 + 맥스봉 숯불구이맛 핫바 + 감동란 조합",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "숙취"
+        ],
+        "original_snippet": "까르보불닭볶음면 (컵라면) + 맥스봉 숯불구이맛 핫바 (보라색) + 감동란 조합"
+    },
+    {
+        "combination_name": "CU 계란초밥 + 컵누들 마라샹궈",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "김밥 해부 show… ㅎㅜ 요러분 보여줄라고 해부했어여 김밥에는 안에 초밥 밥 + 통 계란 + 약간의 마요네즈 ? 아주 쪼끔 들어있는 것 같아요!"
+    },
+    {
+        "combination_name": "숙취 해소 음식 조합",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "숙취"
+        ],
+        "original_snippet": "숙취는 버티는 것이 아니라 '과학적으로' 씻어내는 것입니다."
+    },
+    {
+        "combination_name": "편의점 음료 꿀조합 레시피",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 4,
+            "salty": 0,
+            "rich": 2,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "숙취"
+        ],
+        "original_snippet": "편의점 음료 조합 레시피를 만들어봤어요! 아이스 초코 바닐라, 비타 500+포카리, 아이스 바닐라라떼, 아이스 카페모카, 비타 500+갈아 만든 배 음료들 중에서 가장 맛있어 보이는 음료는 무엇일까요?"
+    },
+    {
+        "combination_name": "타리즈 커피 전문점 리뷰",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 3,
+            "salty": 0,
+            "rich": 2,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "술 후"
+        ],
+        "original_snippet": "술 마신 이후에 술취한 손님들이 자주 주문한다는 특징도 있다."
+    },
+    {
+        "combination_name": "편의점 품절 대란템 BEST 3",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 1,
+            "salty": 2,
+            "rich": 0,
+            "sour": 1
+        },
+        "texture": {
+            "crispy": 1,
+            "chewy": 1,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스"
+        ],
+        "original_snippet": "마라 로제 불닭 감자칩은 입에 넣자마자 마라 특유의 얼얼함 이 확 치고 들어오다가, 끝맛은 로제의 부드러움과 감자칩의 짭짤함 으로 마무리됩니다."
+    },
+    {
+        "combination_name": "치즈치킨마요버거",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "혼밥",
+            "스트레스"
+        ],
+        "original_snippet": "치즈치킨마요버거 단품 가격은 4,000원, 세트 가격은 5,500원입니다."
+    },
+    {
+        "combination_name": "베지 15CM 허니오트빵 + 아메리칸치즈 + 피클빼고 다 + 스위트칠리 + 후추",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 1,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "서브웨이 샌드위치는 눈앞에서 재료를 다 넣고 만들어 주기 때문에 흠을 잡을래야 잡을 수 없다는 점이 매력적이다."
+    },
+    {
+        "combination_name": "딸기우유크림빵",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 4,
+            "salty": 0,
+            "rich": 3,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 2,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "달달간식",
+            "딸기덕후",
+            "빵덕후"
+        ],
+        "original_snippet": "한 입 베어 물면 파스퇴르 특유의 고소한 우유향이 먼저 올라오고 뒤이어 딸기우유의 달콤함이 스르륵 퍼지는~?"
+    },
+    {
+        "combination_name": "써브웨이 알바생 일기",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "정보",
+            "교육"
+        ],
+        "original_snippet": "써브웨이 알바생을 가르치는 날이 올 줄은 몰랐는데 그걸 기념해서 알바일기를 써보려고 합니다."
+    },
+    {
+        "combination_name": "마라떡볶이 + 스트링치즈 + 참치마요 조합",
+        "spiciness": 4,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "편의점 음식은 작은 일탈 같은 것이 였죠~ 어른이 되니 좋은점이 편의점음식을 내맘대로 막 막 사다 먹을 수 있다는 점 자정에 집에 뛰쳐나와서 편의점 음식을 살 수 있다는 점~"
+    },
+    {
+        "combination_name": "에그마요 스쿱샐러드 + 버터 장조림 덮밥",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "새로운 음식 도전해보고 싶은 사람들 도전 필수 ;; 절대 실패 못함"
+    },
+    {
+        "combination_name": "마늘 불닭볶음탕면",
+        "spiciness": 4,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식",
+            "숙취"
+        ],
+        "original_snippet": "마늘의 고소함 + 불닭의 화끈함 + 국물의 진득함 이 찰떡궁합처럼 붙어서 진짜 중독성 장난 아님..😭👍🏻"
+    },
+    {
+        "combination_name": "컵라면 조리법 최적화",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 0,
+            "thick": 0,
+            "popping": 1
+        },
+        "situations": [
+            "스트레스",
+            "야식",
+            "숙취"
+        ],
+        "original_snippet": "컵라면을 뜯을 때 비닐을 완전히 벗기지 말고 하단부만 살짝 남겨두거나, 뚜껑을 절반만 정확하게 열어주는 것부터 시작합니다."
+    },
+    {
+        "combination_name": "저당 꿀배 XO야구르트 + 양념 컵치킨 + 소금빵",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 1,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "피크닉"
+        ],
+        "original_snippet": "저당 꿀배 XO야구르트는 갈배랑 야구르트 섞은 맛이었어요! 저당인데도 특유의 맛은 없고 배의 달콤함이 야구르트의 상큼한 이랑 상당히 잘 어울려서 너무 놀랐어요!! 컵치킨은 바삭하진 않지만 양이 많고 맛도 나쁘지 않아서 카페에서 간단히 허기를 해결하시고 싶은 신 분들에겐 좋을 것 같아요! 소금빵은 버터의 풍미가 미쳐서 닭강정과 잘 어우러져 고급진 메뉴가 탄생합니다."
+    },
+    {
+        "combination_name": "불닭볶음탕면 컵라면",
+        "spiciness": 5,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "불닭볶음탕면 컵라면 파는곳 편의점 재출시 내돈내산 솔직후기 오늘의 신상리뷰는 불닭볶음탕면입니다."
+    },
+    {
+        "combination_name": "마크정식 레시피",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 0,
+            "thick": 0,
+            "popping": 1
+        },
+        "situations": [
+            "nostalgia",
+            "편의점"
+        ],
+        "original_snippet": "마크정식 레시피는 학생 때 이후로 해먹은 기억이 없는데요. 오늘은 편의점으로 달려가서 만든 레시피인데, 소시지랑 떡볶이가 아쉬웠어요."
+    },
+    {
+        "combination_name": "마크정식 조합",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "귀찮은 날에 아주 든든하게 먹을 수 있는 편의점 꿀조합이라니 맥주 한 캔 더하니 이게 으른의 삶이구나 싶구요!"
+    },
+    {
+        "combination_name": "마크정식",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "혼밥",
+            "야식",
+            "숙취"
+        ],
+        "original_snippet": "떡볶이 때문에 살짝 매콤하면서 스파게티의 새콤, 달콤한 맛이 섞여서 꿀맛입니다!"
+    },
+    {
+        "combination_name": "편의점 꿀조합 레시피 10가지",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 1,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "혼밥",
+            "자취"
+        ],
+        "original_snippet": "편의점이 이제 '편슐랭'이라 불릴 만큼 달라졌어요! 편의점 레시피의 레전드 '마크정식', 요즘 SNS에서 가장 핫한 조합 '직꾸리', 인기 절정인 '밴쯔정식' 등 10가지 편의점 꿀조합 레시피를 소개합니다."
+    },
+    {
+        "combination_name": "마시멜로 쫀득쿠키",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 1,
+            "salty": 1,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "야식"
+        ],
+        "original_snippet": "최근 1020세대가 열광하는 인싸 디저트는 '마시멜로 쫀득 쿠키' 입니다."
+    },
+    {
+        "combination_name": "마크정식 레시피",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 1
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "마치 떡볶이에 면사리를 넣어 먹는 것 같이 이질감이 전혀 없었어요."
+    },
+    {
+        "combination_name": "편의점 꿀조합",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "피시방",
+            "컴퓨터"
+        ],
+        "original_snippet": "매콤달콤한 떡볶이 소스에 상큼하고 고소한 스파게티소스가 섞여서 간편하지만 자본의 묵직한 맛이 특징이에요."
+    },
+    {
+        "combination_name": "마크정식",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스"
+        ],
+        "original_snippet": "처음 먹어본 마크정식 후기! 내가 조리를 잘 못했는지 수분이 부족... 그리고 쌀떡이라서 조금 딱딱한 느낌도 있었어요. 다음에는 꼭 밀떡볶이로 하는 걸루>"
+    },
+    {
+        "combination_name": "마크정식",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 2,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "야식"
+        ],
+        "original_snippet": "우와~ 치즈 폭탄ㅠ 여러분도 꼭 만들어서 드세요. 칼로리 폭탄이지만, 한번쯤 야식으로 먹으면 얼마나 맛있는데요~ 맥주한잔해도 진짜 좋은 것 같아요."
+    },
+    {
+        "combination_name": "마크정식",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "마크정식은 편의점 라면 꿀조합 중 가장 근본이 되는 꿀조합 이라고 할 만한 레시피죠"
+    },
+    {
+        "combination_name": "마크정식",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "간단",
+            "중독성"
+        ],
+        "original_snippet": "떡볶이와 스파게티의 조합이 정말 특이인데 너무 어울려요. 그 중에 소스가 묻은 소세지가 킥이랍니다!"
+    },
+    {
+        "combination_name": "양념된 숯불 돼지갈비",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "숙취"
+        ],
+        "original_snippet": "류수영 숯불돼지갈비 만드는법 레시피 공유해요"
+    },
+    {
+        "combination_name": "마크정식 레시피",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "야식",
+            "스트레스"
+        ],
+        "original_snippet": "매운거 좋아하는 분들은 매운 떡볶이로 만드는 것도 좋을 것 같아요 스파게티와 떡볶이 양념이 섞이니까 달콤매콤 넘무 맛있어요 치즈도 양껏넣으니 부드럽구 고소합니당"
+    },
+    {
+        "combination_name": "카레보나라",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 2,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "새로운 편의점 조합",
+            "카레 좋아하는 사람"
+        ],
+        "original_snippet": "꾸덕꾸덕한 식감과 우유와 치즈의 고소함을 느낄 수 있으면서도 매운맛 카레가 들어가 매콤한 카레맛이 더해졌어요"
+    },
+    {
+        "combination_name": "마크정식 불닭볶음면",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "가성비 개꿀이에요ㅋ 어떤 음식이냐? 일단 재료비부터 1만원 안짝인데 두명이 먹어도 배부르고(?) 무엇보다 편점템으로 간단하게 만드는 음식이다보니 시간도 그닥 안 들고 간편해서 very good"
+    },
+    {
+        "combination_name": "마크정식 레시피",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "야식",
+            "숙취"
+        ],
+        "original_snippet": "매콤하고 떡볶이의 양념과 스파게티 특유의 달달함이 잘 어우러져 입에 찰싹 달라붙는데 역시 지금까지 인기있는 이유가 있는 그런 맛이에요."
+    },
+    {
+        "combination_name": "숯불돼지갈비정식",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 1
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "숯불향나는 양념돼지갈비와 옥수수밥, 상큼한 오이양파무침까지 모두 함께 쌈으로 싸 먹으면 더 맛있다."
+    },
+    {
+        "combination_name": "마크정식 레시피",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "추억",
+            "스트레스"
+        ],
+        "original_snippet": "오랜만에 먹어봤으니 됐다! 후후후..."
+    },
+    {
+        "combination_name": "마크정식 레시피",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "숙취",
+            "야식",
+            "스트레스"
+        ],
+        "original_snippet": "마크정식은 떡볶이와 스파게티 조합에 소시지, 치즈 등 다양한 토핑을 추가하여 나만의 스타일로 즐길 수 있다는 점이 가장 큰 매력입니다."
+    },
+    {
+        "combination_name": "MZ세대 편의점 꿀조합",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "숙취",
+            "출출"
+        ],
+        "original_snippet": "MZ세대가 편의점 꿀조합에 열광하는 데는 여러 가지 이유가 있어요. 단순히 저렴한 가격 때문에 찾는 건 아니고요, '가잼비(가격 대비 재미)'와 '심리적 ROI(투자 대비 만족감)' 같은 가치를 중요하게 생각하기 때문이죠."
+    },
+    {
+        "combination_name": "마크정식 레시피",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "마크정식 레시피는 편의점에서 쉽게 구할 수 있는 재료로 만들어진 간단하면서도 맛있는 음식입니다."
+    },
+    {
+        "combination_name": "마크정식 레시피",
+        "spiciness": 4,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식",
+            "숙취"
+        ],
+        "original_snippet": "매콤 쫄깃한 떡볶이와 새콤한 토마토 스파게티, 쫄깃한 소시지 & 치즈가 조화를 이루어서 색다른 간식 생각날 때 만들어 먹기 좋아요~"
+    },
+    {
+        "combination_name": "마크정식 불닭 레시피",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스"
+        ],
+        "original_snippet": "스트레스 받는 날에는 불닭볶음면 조합이 생각났습니다."
+    },
+    {
+        "combination_name": "마크정식 레시피",
+        "spiciness": 4,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "왜 많은 사람들이 마크정식 레시피를 찾는지 이제 알겠네요. 핫해요. 핫해~ 간편하고 쉽게 즐길 수 있고요."
+    },
+    {
+        "combination_name": "스트레스 해소 음식",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스"
+        ],
+        "original_snippet": "스트레스 아 오늘 팩이 왜 이렇게 없어 아 그 전 알바가 다 가져갔나 보다 아 그걸 쟁여 어야지 지금 리스 먹을게 아니라이 새끼야 별걸 다 시켜 일하느라 바 pestic"
+    },
+    {
+        "combination_name": "편의점 먹방",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식",
+            "숙취"
+        ],
+        "original_snippet": "편의점 신난다~ 편의점 오면 신상 구경하는 재미가 있거든요"
+    },
+    {
+        "combination_name": "치즈볶기와 불막창, 참치마요 순대볶음, 초코밀크콘 디저트 조합",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 2,
+            "salty": 3,
+            "rich": 4,
+            "sour": 1
+        },
+        "texture": {
+            "crispy": 2,
+            "chewy": 1,
+            "soft": 3,
+            "thick": 1,
+            "popping": 1
+        },
+        "situations": [
+            "스트레스",
+            "야식",
+            "숙취"
+        ],
+        "original_snippet": "치즈의 고소함과 불막창에 매운 맛이 정말 잘 어울려. 이번엔 참치마유의 기름진 감칠맛과 순대볶음의 매콤달콤한 맛을 만들어 내고 있어."
+    },
+    {
+        "combination_name": "마크 정식과 떡볶이의 조합",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "술 후"
+        ],
+        "original_snippet": "마크 정식보다 더. 어, 진짜. 어. 자, 다음 씹선능 정식. 응. 먹어야지. 참기름 넣어요. 참기름 들어가요. 무조건 들어가요. 어, 술 내가 만들었어."
+    },
+    {
+        "combination_name": "오리지널 떡볶이 조합",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 2,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식",
+            "숙취"
+        ],
+        "original_snippet": "오리지널의 홍라면 매운 체제볶음. 사실이 접은 제가 처음 출시했을 때 살짝 보여 드렸거든요. 근데 분명 못 보신 분들도 계실 것 같고 또 빠질 수 없는 베스트 조합이라서 오늘 또 준비해 봤습니다."
+    },
+    {
+        "combination_name": "불닭볶음면과 편의점 조합 메뉴",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 0,
+            "salty": 2,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 2,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "여러분 이거 너무 맛있어 보이는데 우와 살짝 마크정식스러운 맛인데 마크정식스러운 스파게티면이었나 그랬던 거 같은데 얘는 스파게티면이 안 들어갔잖아요."
+    },
+    {
+        "combination_name": "치즈와 불닭김밥의 콜라보",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "치즈와 불닭김밥의 콜라보는 촉촉꾸덕쓰한 맛과 함께 짭짤하면서도 불닭의 매콤함이 한 스푼 가미돼서 감히 제가 먹어도 될까요."
+    },
+    {
+        "combination_name": "불규칙한 맛과 텍스처의 조합",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [],
+        "original_snippet": "♥"
+    },
+    {
+        "combination_name": "야식과 술 후배심리",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "팀장님 이쪽입니다. 들어오십시오. 어, 깔끔하네. 안녕하세요. 오빠. 아, 제 남동생입니다. 아, 앉아 주시오. 아, 안 죽어. 토미 씨, 맛실까? 아, 예. 예. 어제 드리겠습니다. [음악]"
+    },
+    {
+        "combination_name": "불규칙한 맛과 헷갈리는 상황",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "술 후"
+        ],
+        "original_snippet": "이거는 또 초 땅이 되겠다 타요 5 되게 보통 라면 그 뚜껑이 아니라 되게 부터 아 그 뚜껑이 완전히 아빠 태 아 못타 r 전에 222"
+    },
+    {
+        "combination_name": "술 후 간단 식사",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "숙취"
+        ],
+        "original_snippet": "여러분 엄청 고추장 맛이 많이 나는데 그래도 맛있어요"
+    },
+    {
+        "combination_name": "불닭발과 소주",
+        "spiciness": 5,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "숙취",
+            "야식"
+        ],
+        "original_snippet": "이것도 아래에서 먹는것보다 훨씬 차량 가격이네요 용량 난 뭐 배워 볼게요 보시면은 속에 귀 조리 다 달라요 요즘 이거는 약간 국물이 있구요 이게 맛만 있다면 주먹과 변색 치아 안 먹으면 짱 하잖아요"
+    },
+    {
+        "combination_name": "와인과 잘 어울리는 안주",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "술 후"
+        ],
+        "original_snippet": "와인 양 제일 잘 어울리는 고리가 진짜 어려워요 진짜로 6552 쓰자 $2 맛이라 와인이 어엇 장난 아니에요"
+    },
+    {
+        "combination_name": "매운 사발면",
+        "spiciness": 5,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 0,
+            "sour": 1
+        },
+        "situations": [
+            "숙취",
+            "야식"
+        ],
+        "original_snippet": "매운거 먹으니까 완전 매콤하고 짭짤하다"
+    },
+    {
+        "combination_name": "야식 5009 야심",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "야식",
+            "스트레스"
+        ],
+        "original_snippet": "5009 야심으로 5 보니까 으 16:00 안내 쓰니까 야식 인걸로 신앙을 으 5:00 5:30 좀 넘었네 커는 물 부어 놓고 이렇게 다 셋팅 놈이 어떤 아저씨 좀 넣었어요"
+    },
+    {
+        "combination_name": "편의점 먹방",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식",
+            "숙취"
+        ],
+        "original_snippet": "편의점 신난다~ 편의점 오면 신상 구경하는 재미가 있거든요"
+    },
+    {
+        "combination_name": "꿀조합",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "오늘 먹은 것 중에 하나만 딱 고르라고 한다면 딱 하나만 고르라고 한다면 까르보 불닭이죠. 또 뭔가 매콤망과 치즈의 그런 녹진함이 굉장히 잘 어울렸습니다."
+    },
+    {
+        "combination_name": "사리곰탕면 + 치즈볶이 + 김치 사발면 + 생생우동 + 짜파게티 + 투다리김치우동 + 간짬뽕 + 육계장",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "야식"
+        ],
+        "original_snippet": "저는 요 조합은 각자의 장점을 잘 살린 느낌이고, 특히 사리 곰탕면에 치즈를 추가하면 고소함이 더해진다는 점이 인상적이었습니다."
+    },
+    {
+        "combination_name": "비프레임",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 1
+        },
+        "situations": [
+            "야식"
+        ],
+        "original_snippet": "이거는 브라우니 써봤어 예 재미도 있어요 그래 제발 미국의 써야죠 한국 쪽으로 적었던 뜯어보면 원양 달라졌어요"
+    },
+    {
+        "combination_name": "참깨라면 + 짜파게티",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스"
+        ],
+        "original_snippet": "짜파게티에 참깨라면이 섞여서 만들어진 조합은 맛있게 먹을 수 있으며, 특히 뻑뻑한 식감이 좋습니다."
+    },
+    {
+        "combination_name": "불규칙한 맛과 텍스처의 조합",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [],
+        "original_snippet": "♥"
+    },
+    {
+        "combination_name": "편의점 도시락 조합",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "편의점 도시락 오랜만에 먹어서 그런지 맛있네요"
+    },
+    {
+        "combination_name": "복희의 추억의 도시락 컵라면",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 0,
+            "popping": 1
+        },
+        "situations": [
+            "추억",
+            "야식"
+        ],
+        "original_snippet": "도시락 컵라면은 맛있다기보다 진짜 추억의 맛으로 먹는 느낌?! 저만 그런 거 아니죠?"
+    },
+    {
+        "combination_name": "꿀조화 과자 조합",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 4,
+            "salty": 2,
+            "rich": 3,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 3,
+            "chewy": 2,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "맛집",
+            "혼자 먹기",
+            "후회없는 선택"
+        ],
+        "original_snippet": "편의점에서 이거 팔아야 돼. 안에 ABcD 초콜릿을 이렇게 넣어 가지고요 세트로 파는 거야. 그래서 편의점에서 먹을 때 이거를 전자레지에 1분 돌려 가지고 젓가락으로 먹게끔."
+    },
+    {
+        "combination_name": "여름 편의점 음료 꿀조합",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 5,
+            "salty": 0,
+            "rich": 3,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 0,
+            "thick": 0,
+            "popping": 1
+        },
+        "situations": [
+            "스트레스",
+            "달달함"
+        ],
+        "original_snippet": "오늘 촬영 나다. 너무 좋아. 나와 주세요."
+    },
+    {
+        "combination_name": "베리의 헬로 토이",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 4,
+            "salty": 1,
+            "rich": 3,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "딸기가 더 많이 들어가니까 맛있는 거 같아요. 오점 만점 중에 고점."
+    },
+    {
+        "combination_name": "꿀조합",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "오늘 먹은 것 중에 하나만 딱 고르라고 한다면 딱 하나만 고르라고 한다면 까르보 불닭이죠. 또 뭔가 매콤망과 치즈의 그런 녹진함이 굉장히 잘 어울렸습니다."
+    },
+    {
+        "combination_name": "-cookie_latte",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 1,
+            "salty": 0,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 1,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "간식"
+        ],
+        "original_snippet": "바삭한 죠리퐁과 시원 달달 한 아이스크림의 조화"
+    },
+    {
+        "combination_name": "구슬 아이스크림",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 4,
+            "salty": 0,
+            "rich": 2,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 3,
+            "thick": 2,
+            "popping": 0
+        },
+        "situations": [
+            "추억"
+        ],
+        "original_snippet": "어렸을 때 종종 먹던 추억의 구슬 아이스크림 맛이에요"
+    },
+    {
+        "combination_name": "강릉 초당순두부 아이스크림 & 꼬부기 콘스프",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 3,
+            "salty": 2,
+            "rich": 2,
+            "sour": 1
+        },
+        "texture": {
+            "crispy": 1,
+            "chewy": 2,
+            "soft": 3,
+            "thick": 1,
+            "popping": 1
+        },
+        "situations": [
+            "스트레스",
+            "야식",
+            "숙취"
+        ],
+        "original_snippet": "꼬북 초당 아이스크림 기대하시라 매우 맛있었던 후문 오늘의 재료 포부로 꽤 갈리는 순두부 맛 아이스크림"
+    },
+    {
+        "combination_name": "GS 25 다이어트 템 리뷰",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "다이어트",
+            "스트레스"
+        ],
+        "original_snippet": "GS 25 편의점에서 3,500원에 판매하는 닭가슴살 누룽릉지죽은 단백질이 19g, 산수화물은 17g, 당뇨 0g, 지방 2.8g, 나트륨 720mg이며, 맛은 4.5점, 가성비는 4.5점, 영양성분은 4점."
+    },
+    {
+        "combination_name": "GS25 다이어트 제품 리뷰",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "다이어트"
+        ],
+        "original_snippet": "편의점 GS25 다이어트 제품 리뷰를 통해 탄단지 조합을 알려드리며, 편의점에서 제품만 잘 고르면 탄단지 조합을 할 수 있다고 설명합니다."
+    },
+    {
+        "combination_name": "편의점 식품 선택 조언",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "편의점에서는 직접 먹을 수 있는 고구마나 햄버거 같은 음식을 골라서 탄수화물을 채워주고, 만약 그런 것이 없다면 편의점에서 먹을 수 있는 햄버거 같은 음식을 먹으라고 권합니다."
+    },
+    {
+        "combination_name": "편의점 다이어트 음식",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 1,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식",
+            "숙취"
+        ],
+        "original_snippet": "편의점 음식도 전략적으로 고르면 충분히 먹을 만한게 많은 거 같습니다."
+    },
+    {
+        "combination_name": "편의점 다이어트 도시락",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "다이어트"
+        ],
+        "original_snippet": "편의점 다이어트 도시락은 칼로리가 낮은 것부터 먼저 먹는 것이 좋으며, 섬유질 단백질 탄수화물 순서대로 먹는 것이 중요합니다."
+    },
+    {
+        "combination_name": "매운 라면과 건강한 간식",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "야식"
+        ],
+        "original_snippet": "아이템 식사로 잠깐 쉬어 안는데요 들어가서 한번 보도록 할게요 라면 쪽을 한거 같아요"
+    },
+    {
+        "combination_name": "편의점 간단 식단",
+        "spiciness": 1,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "야식"
+        ],
+        "original_snippet": "편의점 털어 가지고 편의점에서도 식단이 되나 은혜는 바나나 안 바나나 카드를 사"
+    },
+    {
+        "combination_name": "마녀스프",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 1,
+            "popping": 0
+        },
+        "situations": [
+            "다이어트",
+            "스트레스"
+        ],
+        "original_snippet": "이거를 잔뜩 끓일 거야 집에 있는 냄비 중에 제일 큰 냄비 있지 어 나는 여기다 할 거야"
+    },
+    {
+        "combination_name": "집에서 만든 하이볼",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 1,
+            "salty": 0,
+            "rich": 0,
+            "sour": 1
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "생일",
+            "스트레스"
+        ],
+        "original_snippet": "포카리스웨트로 만든 하이볼은 맛이 알싸해요 알싸하고 확실히 탄산이 있다 보니까 청량감이 있고 진짜 집에서 한 거지만 밖에서 사먹는 맛 그대로라고 생각하시면 됩니다"
+    },
+    {
+        "combination_name": "카페인과 섭취량에 따른 위험성",
+        "spiciness": 2,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스"
+        ],
+        "original_snippet": "카페인 같은 경우는 10g 정도를 한 번에 먹으면 사망에 이르는 가능성이 있으며, 10 그램을 아메리카노 톨 사이즈로 예수 일곱 잔을 한 번에 마시면 사망에 이르는 가능성이 있다."
+    },
+    {
+        "combination_name": "부산 해산물과 함께하는 위스키",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 0,
+            "salty": 1,
+            "rich": 1,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "숙취",
+            "바다"
+        ],
+        "original_snippet": "담백하니 하나만 가지고서 와인을 고른다면 페어링 할 수 있어요 그런데 지금도 우리가 지금 초고추장 들어가요 적어 조모 콩가루 들어갔죠 너무 다양한 향이 같이 폭발을 한단 말이에요"
+    },
+    {
+        "combination_name": "딸기우유와 수박에이드 조합",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 1,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 1,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "야식"
+        ],
+        "original_snippet": "딸기우유를 컵에 절반까지 부어주고 편의점 수박에이드로 나머지 절반을 채워주면 완성이에요"
+    },
+    {
+        "combination_name": "사케 종류와 주문법 설명",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "레스토랑"
+        ],
+        "original_snippet": "레스토랑에서 사케를 쉽게 주문할 수 있도록 가장 기본적으로 알아야 할 사케 용어들을 정리했습니다."
+    },
+    {
+        "combination_name": "비주얼한 맛의 술",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 1,
+            "sour": 1
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "숙취",
+            "스트레스"
+        ],
+        "original_snippet": "이게 약간 콩초 먹는 것 같은 게임 초가 또 이제 너무 신기한 게 감칠 맛이 이렇게 많이 하려면 한국균을 좀 들어봐 인 걸 텐데 그런데 그렇게 무슨 냄새가 안 나는 거지 뜨시면 줘 어 저희 특징 이치를 증 줄이기 위해서 2 b 양을 현저히 줄였습니다 보통 이제 누룩을 20 에서 30% 라고 나와있습니다"
+    },
+    {
+        "combination_name": "인공지능과의 협업",
+        "spiciness": 3,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 0
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "협업",
+            "상품개발"
+        ],
+        "original_snippet": "인공지능이 내놓은 기회관을 기업들이 적극적으로 채택하고 있는데요 그 수준은 어느 정도일까요"
+    },
+    {
+        "combination_name": "사려 고량주",
+        "spiciness": 0,
+        "taste": {
+            "sweet": 0,
+            "salty": 0,
+            "rich": 0,
+            "sour": 1
+        },
+        "texture": {
+            "crispy": 0,
+            "chewy": 0,
+            "soft": 0,
+            "thick": 0,
+            "popping": 0
+        },
+        "situations": [
+            "스트레스",
+            "숙취"
+        ],
+        "original_snippet": "사려는 파인애플이 팡팡 터지는 느낌이고 이 술은 은은하게 퍼지는 느낌이에요. 회와 잘 어울리고, 고량주에 대한 부담감이 있는 분들에게 좋을 것 같아요."
+    }
+]

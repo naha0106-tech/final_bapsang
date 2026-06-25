@@ -1,0 +1,5671 @@
+[
+    {
+        "main_food": "제주 흑돼지",
+        "main_ingredients": [
+            "black pork",
+            "black pork belly"
+        ],
+        "sub_ingredients": [
+            "salt",
+            "myeoljeot",
+            "garlic paste",
+            "wasabi",
+            "green onion kimchi",
+            "garlic scapes",
+            "ssamjang",
+            "lettuce",
+            "radish salad",
+            "aged kimchi"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 흑돼지(black pork)를 소금(salt)에 찍어 먼저 맛보고, 이어서 멜젓(myeoljeot)에 찍어 먹습니다.",
+            "2. 흑돼지(black pork)에 소금(salt), 마늘 페이스트(garlic paste), 고추냉이(wasabi)를 함께 곁들여 느끼함을 잡아주는 최고의 조합을 즐깁니다.",
+            "3. 잘 구워진 흑돼지 삼겹살(black pork belly)과 파김치(green onion kimchi)를 함께 먹어 개운함을 맛봅니다.",
+            "4. 상추(lettuce) 위에 흑돼지(black pork)와 마늘종(garlic scapes), 쌈장(ssamjang)을 차례로 올려 건강한 한 쌈을 싸서 먹습니다.",
+            "5. 흑돼지(black pork)와 무생채(radish salad), 묵은지(aged kimchi)를 함께 먹어 느끼함을 잡고 개운한 맛을 느낍니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "kimchi",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 오토그릴로 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 구운 삼겹살(pork belly), 마늘(garlic), 김치(kimchi)를 올리고 쌈장(ssamjang)을 살짝 넣어 싸서 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang",
+            "kimchi"
+        ],
+        "guide_steps_ko": [
+            "1. 삼겹살(pork belly)은 한 면이 충분히 익어 가장자리가 하얗게 변할 때 한 번 뒤집어 노릇노릇하게 구운 후, 육즙을 위해 한 입 크기보다 조금 크게 자릅니다.",
+            "2. 신선한 상추(lettuce) 위에 잘 구워진 삼겹살(pork belly) 한 점을 올리고, 구운 마늘(garlic)과 쌈장(ssamjang)을 함께 넣어 쌈을 싸서 먹습니다.",
+            "3. 불판에 삼겹살(pork belly)을 굽고 남은 고기 기름에 김치(kimchi)를 올려 함께 구운 후, 구운 김치와 삼겹살을 같이 곁들여 먹으면 더욱 깊은 맛을 즐길 수 있습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "minari",
+            "wasabi",
+            "sea salt",
+            "whole grain mustard",
+            "ssamjang",
+            "pickled chili peppers"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)과 향긋한 미나리(minari)를 준비합니다.",
+            "2. 삼겹살(pork belly)을 연와사비(wasabi), 천일염(sea salt), 홀그레인 머스터드(whole grain mustard) 중 취향에 맞는 소스에 찍어 먹습니다.",
+            "3. 고추장, 참기름, 통깨 등으로 고소하게 준비된 쌈장(ssamjang)을 곁들여 먹습니다.",
+            "4. 느끼할 때에는 알싸하고 짭조름한 고추 장아찌(pickled chili peppers)를 함께 먹으면 더욱 맛있습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살 간장 볶음",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "rice",
+            "shredded green onion"
+        ],
+        "guide_steps_ko": [
+            "1. 따뜻한 밥(rice)과 함께, 맛있게 볶아진 삼겹살(pork belly) 간장 볶음을 준비합니다.",
+            "2. 밥(rice) 위에 볶음 속 삼겹살(pork belly) 한 점과 파채(shredded green onion)를 함께 올려 한입 가득 맛있게 즐기세요."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "cham sauce",
+            "chives"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 삼겹살(pork belly) 한 점을 참소스(cham sauce)에 흠뻑 적신 후, 부추(chives)와 함께 집어 먹습니다."
+        ]
+    },
+    {
+        "main_food": "수육",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "shrimp sauce",
+            "dried radish kimchi",
+            "fresh kimchi",
+            "lettuce"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 삶아진 수육(pork belly)을 먹기 좋은 크기로 썰어 준비합니다.",
+            "2. 수육(pork belly)을 새우젓(shrimp sauce)에 찍어 드시면 고유의 맛을 느낄 수 있습니다.",
+            "3. 무말랭이(dried radish kimchi)나 겉절이(fresh kimchi) 같은 채소와 함께 곁들여 드시면 더욱 맛있습니다.",
+            "4. 상추(lettuce) 같은 쌈채소에 수육(pork belly)과 다른 반찬들을 함께 올려 쌈을 싸서 드셔도 좋습니다."
+        ]
+    },
+    {
+        "main_food": "통삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [],
+        "guide_steps_ko": [
+            "1. 통삼겹살(pork belly)의 겉면을 센 불에 노릇하게 구워 준비합니다.",
+            "2. 겉면이 잘 구워진 통삼겹살(pork belly)을 적당히 얇게 잘라줍니다.",
+            "3. 얇게 자른 통삼겹살(pork belly)의 안쪽 면을 중약불에 튀기듯이 노릇하게 익혀줍니다.",
+            "4. 육즙이 풍부하고 고소함이 진한 통삼겹살(pork belly)을 그대로 즐깁니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살파스타",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "spaghetti noodles",
+            "perilla leaf",
+            "pepper",
+            "parsley"
+        ],
+        "guide_steps_ko": [
+            "1. 고추기름으로 맛을 낸 스파게티 면(spaghetti noodles)과 바삭하게 구워진 삼겹살(pork belly)이 담긴 접시를 준비합니다.",
+            "2. 포크로 스파게티 면(spaghetti noodles)을 돌돌 말아 삼겹살(pork belly)과 함께 곁들여 먹습니다.",
+            "3. 취향에 따라 채 썬 깻잎(perilla leaf)과 후추(pepper), 파슬리(parsley)를 곁들여 풍미를 더합니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "scallion salad"
+        ],
+        "guide_steps_ko": [
+            "1. 겉은 바삭하고 속은 촉촉하게 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 신선한 파채(scallion salad)를 접시 바닥에 넓게 깔아줍니다.",
+            "3. 파채(scallion salad) 위에 따뜻한 삼겹살(pork belly)을 올려 함께 즐겨 먹습니다."
+        ]
+    },
+    {
+        "main_food": "돼지고기 찌개",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "onion",
+            "tofu",
+            "garlic"
+        ],
+        "guide_steps_ko": [
+            "1. 따뜻하게 끓여진 돼지고기 찌개(pork stew)를 한 그릇 담습니다.",
+            "2. 찌개 속 부드러운 삼겹살(pork belly)과 양파(onion), 두부(tofu), 마늘(garlic)을 함께 떠서 맛을 즐깁니다."
+        ]
+    },
+    {
+        "main_food": "대패 삼겹살 비빔국수",
+        "main_ingredients": [
+            "thinly sliced pork belly"
+        ],
+        "sub_ingredients": [
+            "somyeon noodles",
+            "bibim-guksu sauce",
+            "chives",
+            "enoki mushrooms"
+        ],
+        "guide_steps_ko": [
+            "1. 삶은 소면(somyeon noodles)과 팽이버섯(enoki mushrooms)을 그릇에 담습니다.",
+            "2. 매콤 새콤한 비빔국수 양념장(bibim-guksu sauce)을 소면 위에 올립니다.",
+            "3. 바삭하게 볶아진 대패 삼겹살(thinly sliced pork belly)과 썰어 놓은 부추(chives)를 듬뿍 얹어줍니다.",
+            "4. 모든 재료를 골고루 잘 비벼서 함께 맛있게 드세요."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "bracken",
+            "oyster",
+            "webfoot octopus",
+            "salted fermented shrimp"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly), 고사리(bracken), 굴(oyster), 주꾸미(webfoot octopus)를 준비합니다.",
+            "2. 먼저 삼겹살(pork belly) 한 점을 접시에 깔고, 그 위에 돼지기름을 머금은 고사리(bracken)를 넉넉히 올립니다.",
+            "3. 이어서 노릇하게 구워진 굴(oyster)과 탱글탱글한 주꾸미(webfoot octopus)를 차례로 쌓습니다.",
+            "4. 마지막으로 새우젓(salted fermented shrimp)을 한두 개 올려 완성된 '사합'을 한입에 크게 맛봅니다."
+        ]
+    },
+    {
+        "main_food": "미나리 삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "minari",
+            "king oyster mushroom",
+            "garlic",
+            "ssamjang",
+            "kimchi"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)과 살짝 익힌 미나리(minari)를 준비합니다. 구워진 새송이버섯(king oyster mushroom), 구운 마늘(garlic), 김치(kimchi), 그리고 쌈장(ssamjang)도 함께 곁들여 준비합니다.",
+            "2. 잘 익은 삼겹살(pork belly)로 살짝 익힌 미나리(minari)를 감싸고, 그 위에 쌈장(ssamjang)과 구운 마늘(garlic) 또는 김치(kimchi)를 올려 한입에 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "spinach geotjeori",
+            "ssamjang",
+            "oyster mushroom",
+            "onion"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)과 함께 구운 느타리버섯(oyster mushroom), 양파(onion)를 준비합니다.",
+            "2. 상추(lettuce) 위에 삼겹살(pork belly)과 구운 느타리버섯(oyster mushroom), 양파(onion), 시금치 겉절이(spinach geotjeori), 쌈장(ssamjang)을 차례로 올려 쌈을 싸서 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "kimchi",
+            "garlic",
+            "green onion salad",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 신선한 상추(lettuce) 위에 삼겹살(pork belly) 한 점과 구운 김치(kimchi), 구운 마늘(garlic), 파채 무침(green onion salad)을 올립니다.",
+            "3. 마지막으로 쌈장(ssamjang)을 살짝 얹어 모든 재료를 한입 크기로 싸서 먹습니다."
+        ]
+    },
+    {
+        "main_food": "비빔면",
+        "main_ingredients": [
+            "bibimyeon noodles"
+        ],
+        "sub_ingredients": [
+            "bibimyeon sauce",
+            "thinly sliced pork belly",
+            "boiled egg"
+        ],
+        "guide_steps_ko": [
+            "1. 비빔면 면(bibimyeon noodles)을 끓는 물에 삶아 찬물에 여러 번 헹군 후, 물기를 빼고 그릇에 담아 비빔면 양념장(bibimyeon sauce)과 잘 비벼줍니다.",
+            "2. 팬에 대패삼겹살(thinly sliced pork belly)을 바삭하게 구워 준비한 후, 비벼진 비빔면 면 위에 보기 좋게 올려줍니다.",
+            "3. 마지막으로 삶은 달걀(boiled egg)을 올려 모든 재료를 함께 곁들여 맛있게 즐기세요."
+        ]
+    },
+    {
+        "main_food": "미나리삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "mizuna",
+            "garlic",
+            "ssamjang",
+            "soy sauce",
+            "egg mayonnaise",
+            "pickled radish",
+            "kimchi",
+            "green onions",
+            "garlic chives"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 미나리삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(mizuna) 위에 고기와 미나리, 구운 마늘(garlic), 쌈장(ssamjang), 소스(soy sauce), 명란쪽파무침(egg mayonnaise), 배추김치(kimchi), 양파장아찌(green onions), 참기름(garlic chives)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "mizuna",
+            "garlic",
+            "ssamjang",
+            "cabbage",
+            "ginger",
+            "soy sauce",
+            "green onions"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 미나리(mizuna)와 쌈채소(cabbage), 마늘(garlic), 쌈장(ssamjang), 고추장(ginger), 간장(soy sauce), 파무침(green onions)을 셀프바에서 가져옵니다.",
+            "3. 미나리와 삼겹살을 함께 먹으며 향긋한 향과 부드러운 고기 식감을 즐깁니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 볶은 마늘(garlic)과 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "생삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 생삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 묵은지, 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 곁들여진 마늘(garlic), 소금 기름장, 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "교하 솥뚜껑삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang",
+            "radish",
+            "cabbage",
+            "bean sprouts",
+            "mizuna",
+            "kimchi"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce), 마늘(garlic), 쌈장(ssamjang), 미나리(mizuna), 고사리(radish), 콩나물(bean sprouts), 김치(kimchi)를 준비합니다.",
+            "3. 솥뚜껑에 고기를 올리고, 채소들을 차례대로 올려줍니다.",
+            "4. 사장님께서 직접 불에 올려주는 고기를 기다립니다.",
+            "5. 고기가 완성되면, 밑반찬과 함께 식사합니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 매운 소스(ssamjang)를 올려 먹습니다.",
+            "3. 고기와 소스를 파김치(paringsimchi)에 싸서 먹습니다.",
+            "4. 비빔 막국수(bibim makguksu)와 함께 즐깁니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 280시간 숙성된 pork belly를 준비합니다.",
+            "2. 상추(lettuce)와 마늘(garlic)을 곁들입니다.",
+            "3. 쌈장(ssamjang)과 함께 즐깁니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 마늘(garlic)과 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "radish",
+            "pickled radish",
+            "sesame sauce"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce), 파채(radish), 미박삼겹살(pickled radish) 위에 고기를 올립니다.",
+            "3. 고기 위에 참치장(sesame sauce)을 바릅니다.",
+            "4. 고기와 함께 상추, 파채, 미박삼겹살을 싸서 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 통감자 슬라이스, 마늘쫑(garlic), 쌈장(ssamjang)을 올려 먹습니다.",
+            "3. 목살2인 메뉴를 주문하여 빠르게 구워준 고기를 싸 먹습니다.",
+            "4. 다 익은 고기는 야채 위에 올려서 통감자 슬라이스를 취향에 맞게 구워 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang",
+            "mackerel fermented soybean paste",
+            "pink salt",
+            "wasabi",
+            "seaweed soup",
+            "mackerel fermented soybean paste with garlic",
+            "mustard sauce",
+            "ginger"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce)와 마늘(garlic)을 기본 반찬과 함께 올립니다.",
+            "3. 히말라야 핑크 솔트(pink salt), 와사비(wasabi), 겨자씨(mustard sauce), 갈치속젓(mackerel fermented soybean paste with garlic) 등 다양한 소스와 함께 먹습니다.",
+            "4. 소고기 미역국(seaweed soup)과 함께 먹으면 더욱 맛있습니다.",
+            "5. 함박 고기전(mackerel fermented soybean paste with garlic)과 함께 즐깁니다.",
+            "6. 매실 하이볼(mixed fruit and whiskey)과 함께 소주(sake)를 즐깁니다."
+        ]
+    },
+    {
+        "main_food": "미나리 삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "mizuna",
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce)와 미나리(mizuna) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 마늘(garlic)과 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "kimchi",
+            "radish",
+            "mung bean sprouts",
+            "cheese"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 김치(kimchi), 콩나물(mung bean sprouts), 고사리(radish), 미나리(mixed greens), 구운 치즈(cheese)를 준비합니다.",
+            "3. 상추(lettuce) 위에 고기와 김치, 콩나물, 고사리, 미나리, 구운 치즈를 올려 먹습니다."
+        ]
+    },
+    {
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang",
+            "tartar sauce"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 대패삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기를 올리고, 마늘(garlic)과 쌈장(ssamjang), 타르타르 소스(tartar sauce)를 곁들입니다.",
+            "3. 쌈싸먹는 순서를 따라 꺄>_<!!!! 입에 들어갑니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_ingredients": [
+            "shrimp"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "tartar sauce",
+            "anchovy",
+            "radish sprouts",
+            "angel hair",
+            "egg omelet",
+            "mushroom soup"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 조리된 쭈꾸미(shrimp)가 준비됩니다.",
+            "2. 깻잎(lettuce) 위에 쭈꾸미와 삼겹살(pork belly)을 올립니다.",
+            "3. 콩나물(radish sprouts), 날치알(anchovy), 마늘(garlic)을 추가로 올립니다.",
+            "4. 마지막으로 쌈무(angel hair), 계란찜(egg omelet), 어묵탕(mushroom soup)을 올려줍니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang",
+            "cabbage",
+            "newlyensiled mushrooms",
+            "chopped garlic",
+            "soy sauce-based meat paste",
+            "anchovy paste"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 숙성되고 얇게 썰린 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce)와 깻잎(cabbage) 위에 고기를 올립니다.",
+            "3. 다양한 반찬과 소스(ssamjang, chopped garlic, soy sauce-based meat paste, anchovy paste)를 곁들여 고기에 감싸 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 대패삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "비빔밥",
+        "main_ingredients": [
+            "shrimp"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang",
+            "chicken cutlet",
+            "noodle soup",
+            "pickled radish",
+            "mayonnaise",
+            "tartar sauce",
+            "kimchi"
+        ],
+        "guide_steps_ko": [
+            "1. 먼저, 신선한 쭈꾸미(shrimp)를 준비합니다.",
+            "2. 다음으로, 상추(lettuce), 마늘(garlic), 쌈장(ssamjang), 치킨 써니마트(chicken cutlet), 날치알(noodle soup), 천사채(pickled radish), 마요네즈(mayonnaise), 타르타르 소스(tartar sauce), 깻잎(kimchi) 등을 준비합니다.",
+            "3. 쭈꾸미와 함께 싸먹는 천사채(pickled radish), 날치알(noodle soup), 쌈무(pickle radish), 파스타 마요네즈 무침(mayo sauce), 타르타르 소스(tartar sauce), 깻잎(kimchi) 등을 순서대로 먹으면 더욱 맛있습니다.",
+            "4. 마지막으로, 볶음밥(fried rice)을 철판에 눌러 먹으면 배가 부르게 됩니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 반찬으로 제공되는 마늘(garlic)과 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 마늘(garlic)과 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 마늘(garlic)과 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 냄비를 사용하여 불을 중불로 시작합니다.",
+            "3. 겉을 빠르게 익히지 않고 기름을 천천히 빼는 과정을 진행합니다.",
+            "4. 기름이 밖으로 튀지 않도록 뚜껑을 닫아 주고, 기름이 나온 후 불을 강불로 올립니다.",
+            "5. 겉면이 바삭해질 때까지 천천히 익혀줍니다.",
+            "6. 기름이 안정되면 뚜껑을 열고 고기를 뒤집어 익혀줍니다.",
+            "7. 다 익은 고기 중에서 가운데 부분부터 덜어내고 남은 기름으로 나머지 고기를 구워줍니다.",
+            "8. 불을 올려 양파를 넣어 굽습니다.",
+            "9. 돼지 기름에 김치를 볶아줍니다.",
+            "10. 이렇게 구운 삼겹살은 겉은 바삭하고 속은 촉촉하며 집에서도 만족스러운 맛이 납니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 팬을 충분히 달구어 뜨거운 상태로 만듭니다.",
+            "3. 팬이 뜨거워졌다면 삼겹살을 올려 구워줍니다.",
+            "4. 기름이 조금 떨어지면 삼겹살을 올려줍니다.",
+            "5. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "kimchi"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 마늘(garlic)과 김치(kimchi)를 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 30분 전에 소금과 후추를 미리 소금판에 뿌려준 삼겹살(pork belly)을 준비합니다.",
+            "2. 9시까지 2.5cm 두께로 썰어준 삼겹살을 그릴에 올려 놓습니다.",
+            "3. 5분 동안 불을 끈 후 뚜껑을 덮고 5분 동안 뒤집어줍니다.",
+            "4. 마늘(garlic)을 추가하여 양념장을 만듭니다.",
+            "5. 양념장을 곁들여 상추(lettuce) 위에 올려 쌈을 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 김치, 고사리, 콩나물과 같은 반찬들을 올려 먹습니다.",
+            "3. 쌈장(ssamjang)을 곁들여 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 얇게 썰린 마늘(garlic)과 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "흑돼지",
+        "main_ingredients": [
+            "black pork neck",
+            "black pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "shredded green onions",
+            "salt",
+            "meljeot",
+            "garlic paste",
+            "wasabi",
+            "green onion kimchi",
+            "garlic scape",
+            "ssamjang",
+            "radish salad",
+            "aged kimchi"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 흑돼지 목살(black pork neck) 또는 흑돼지 삼겹살(black pork belly)을 준비합니다.",
+            "2. 첫 점은 소금(salt)에 찍어 먹거나, 멜 젓(meljeot)에 찍어 먹는 일반적인 방법으로 시작합니다.",
+            "3. 소금(salt)과 마늘 페이스트(garlic paste), 고추냉이(wasabi)를 곁들여 흑돼지의 느끼함을 잡아줍니다.",
+            "4. 흑돼지 삼겹살(black pork belly)에 파김치(green onion kimchi)를 올려 개운한 맛을 즐깁니다.",
+            "5. 상추(lettuce)에 흑돼지(black pork)와 마늘종(garlic scape), 쌈장(ssamjang)을 올려 건강한 한 쌈으로 먹습니다.",
+            "6. 흑돼지(black pork)에 무생채(radish salad)와 묵은지(aged kimchi)를 곁들여 개운하고 깔끔한 맛을 경험합니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살 간장 볶음",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 삼겹살(pork belly)을 해동시키고 겉면이 노릇하게 구워줍니다.",
+            "2. 느타리버섯(fresh mushrooms)와 대파(radish)를 준비해 주세요.",
+            "3. 간장, 굴소스, 맛술, 미소된장을 섞은 소스를 준비해 주세요.",
+            "4. 삼겹살을 팬에 구워서 접시에 옮겨 놓습니다.",
+            "5. 느타리버섯과 대파를 팬에 볶아서 소스를 추가해 주세요.",
+            "6. 고기가 적당히 익었을 때 소스가 고기에 배어들도록 3~5분 더 볶아줍니다.",
+            "7. 마지막으로 올리고당과 들기름을 넣어 마무리합니다.",
+            "8. 파채와 통깨를 위에 뿌려서 완성된 삼겹살 간장 볶음을 즐겨보세요."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 뿌린 소금과 후추를 올려 먹습니다.",
+            "3. 고기가 어느 정도 익으면 뚜껑을 잠시 덮고 중약불로 익혀 속이 촉촉해지도록 합니다.",
+            "4. 부추를 손질하여 한입 크기로 자른 후, 참소스(ssamjang)를 바닥이 자박하게 깨물 때까지 듬뿍 뿌립니다.",
+            "5. 마지막으로 통깨까지 넉넉히 뿌리면 마무리됩니다.",
+            "6. 잘 익은 고기 한 점을 집어 참소스 흠뻑 적시고, 부추도 함께 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살 수육",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 양파와 대파, 마늘을 준비하여 잡내를 제거합니다.",
+            "3. 통후추, 건고추, 사과, 인스턴트 커피를 추가하여 고기의 풍미를 좋게 합니다.",
+            "4. 냄비에 물과 향신채를 넣고 고기를 넣어줍니다. 고기는 물이 팔팔 끓는 시점에 넣어야 합니다.",
+            "5. 고기를 삶으면서 잡내를 휘발시키기 위해 뚜껑을 닫지 않고 끓입니다.",
+            "6. 고기가 다 익으면 뚜껑을 덮고 중불에서 35분 정도 삶아줍니다.",
+            "7. 고기를 식히고 도마에서 먹기 좋은 크기로 썰어줍니다.",
+            "8. 쌈채소와 곁들여 먹으면 더욱 맛있습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 통삼겹살(pork belly)을 통째로 팬에 겉면을 구워줍니다.",
+            "2. 센불에 겉면을 잘 구워주되, 기름이 너무 많으면 불을 줄여줍니다.",
+            "3. 스텐팬으로 구우면 겉면이 노릇노릇하게 응답이 잘 일어납니다.",
+            "4. 겉면이 노릇하게 잘 구워지면 얇게 가위로 잘라줍니다.",
+            "5. 통으로 구워서 육즙이 많으므로 기름이 많이 튀어나올 수 있으므로, 적당히 얇게 썰어줍니다.",
+            "6. 기름을 닦아주거나 중약불에 튀기듯이 구워 안쪽을 노릇하게 익혀줍니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 노릇노릇 익힌 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기를 올리고, 마늘(garlic)과 쌈장(ssamjang)을 얹습니다.",
+            "3. 전분가루 1T 큰 술을 고기에 골고루 뿌려줍니다.",
+            "4. 고기는 바삭바삭하게 익힌 후 접시에 담습니다.",
+            "5. 양파를 채 썰어 프라이팬에 올리브오일과 간마늘을 볶아줍니다.",
+            "6. 참치액 1T 큰 술을 뿌리고, 고추기름을 추가하여 감칠맛을 낸 후 양파와 함께 볶습니다.",
+            "7. 스파게티 면 1줌을 10분간 삶아 1국자 면수를 넣어 볶아줍니다.",
+            "8. 깻잎 4장은 얇게 썰어 고추기름과 함께 볶아줍니다.",
+            "9. 마지막으로 깻잎과 고기 토핑을 추가하여 후추와 파슬리를 뿌립니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 불판을 예열하고, 표면이 살짝 연기가 올라오는 시점에 고기를 올립니다.",
+            "3. 센 불로 원육 표면을 코팅하여 질기지 않고 부드러운 상태를 유지합니다.",
+            "4. 초반 조리 단계에서 발연점이 높은 포도씨유를 팬에 가볍게 둘러줍니다.",
+            "5. 고기를 뒤집기 직전에 굵은 소금을 위에서 골고루 뿌려줍니다.",
+            "6. 뼈가 붙은 주변 부위와 등지방 쪽에 촘촘하게 칼집을 넣어 열이 속까지 일정하게 전달됩니다.",
+            "7. 팬 위에서 길쭉한 덩어리 상태로 앞뒤를 노릇하게 익힌 뒤, 한입 크기로 잘라줍니다.",
+            "8. 식빵 두 장을 판 위에 올려두어 과도한 유분을 제어합니다.",
+            "9. 다 구워진 고기를 차가운 접시에 올리면 온도가 급격히 떨어지지 않도록 파채를 완성 접시 바닥에 넓게 깔아 냅니다.",
+            "10. 뜨거운 열기가 아래로 전달되면서 파채의 숨이 살짝 죽고 알싸한 파 향이 고기 표면에 스며들어 식사 자리의 완성도를 높입니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "onion",
+            "tofu",
+            "garlic",
+            "red pepper paste"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 양파(onion)와 두부(tofu)를 준비하고, 마늘(garlic)과 고추장(red pepper paste)을 듬뿍 넣습니다.",
+            "3. 양파와 돼지고기를 고추장에 볶아줍니다.",
+            "4. 물을 자작하게 넣고 센 불로 끓여줍니다.",
+            "5. 중불로 불을 줄이고 두부를 추가하여 10분 이상 끓여줍니다."
+        ]
+    },
+    {
+        "main_food": "대패 삼겹살 비빔국수",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "radish sprouts",
+            "mushroom",
+            "sliced pork belly",
+            "pickled radish",
+            "sugar",
+            "vinegar",
+            "gochujang",
+            "ginger",
+            "soda water"
+        ],
+        "guide_steps_ko": [
+            "1. 대패 삼겹살은 소금, 후추, 맛술로 밑간을 해줍니다.",
+            "2. 밑간한 고기는 센 불에서 바삭하게 볶아줍니다.",
+            "3. 비빔국수 양념장은 고추장, 고춧가루, 식초, 어간장, 매실청, 올리고당, 사이다를 섞어 준비합니다.",
+            "4. 부추와 팽이버섯은 손질하여 비빔국수에 사용됩니다.",
+            "5. 소면은 끓인 물에 삶아서 체에 담가 물기를 빼줍니다.",
+            "6. 그릇에 소면과 비빔국수 양념장을 담아, 대패 삼겹살과 부추를 올려 완성합니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살 사합구이",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang",
+            "shrimp",
+            "seafood sauce",
+            "scallop"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce)와 고사리(garlic)를 준비해주세요.",
+            "3. 굴(seafood sauce)과 주꾸미(scallop)를 준비해주세요.",
+            "4. 먼저 삼겹살 기름이 모이는 곳에 고사리를 살짝 간을 해서 구워줍니다.",
+            "5. 굴을 돼지기름에 구워줍니다.",
+            "6. 마지막으로 주꾸미를 올려주되, 미리 간을 하지 않습니다.",
+            "7. 모든 재료가 익으면, 삼겹살 위에 돼지기름을 듬뿍 묻힌 고사를리와 굴, 주꾸미를 차례로 올립니다.",
+            "8. 완성된 '사합'을 한입에 넣어보세요."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 미나리(aminari)를 미리 세척하고 물기를 날려 미나리의 잎 부분은 쌈에 넣어 먹거나 따로 모아두었습니다.",
+            "3. 미나리를 고기 기름에 10~20초만 살짝 볶아 향을 입혀줍니다.",
+            "4. 미나리를 대패 삼겹살(pork belly)로 감싸서 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "radish",
+            "garlic",
+            "magic sauce",
+            "mushroom",
+            "onion",
+            "soybean paste",
+            "red pepper paste",
+            "ginger"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 냉장고에 있던 시금치(radish)로 겉절이를 만들고, 깨끗이 씻은 상추(lettuce)를 준비합니다.",
+            "3. 집에 쌈장(magic sauce)을 직접 만들어, 조금 다진 마늘(garlic)과 참기름(soybean paste)을 더해줍니다.",
+            "4. 삼겹살을 구울 때 느타리버섯(mushroom)와 양파(onion)를 함께 구워, 고기의 기름이 스며들도록 합니다.",
+            "5. 고기를 구울 때 한 면이 충분히 익고 노릇해질 때 뒤집는 것이 중요하며, 버섯과 양파를 함께 먹으면 풍미가 더 좋아집니다.",
+            "6. 노릇하게 잘 구워진 삼겹살을 상추에 올리고, 시금치 겉절이와 직접 만든 쌈장을 더해 한 쌈을 싸 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다.",
+            "3. 불판의 불 조절을 수저통 옆에 강불, 중불, 약불로 조절하여 고기를 바싹 구워줍니다.",
+            "4. 고기의 기름이 나오면 김치를 구워줍니다.",
+            "5. 숙주, 미나리, 고사리를 삼겹살과 함께 볶아줍니다.",
+            "6. 얇은 감자, 고구마를 별미로 구워 먹습니다.",
+            "7. 마늘쫑을 얇게 채썰어 식감을 즐깁니다.",
+            "8. 야채쌈은 남기지 않고 맛있게 다 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "mizuna",
+            "garlic",
+            "lettuce"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce)와 미나리(mizuna) 위에 고기와 구운 마늘(garlic)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "비빔면",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce)와 함께 비빔면 양념장을 준비합니다.",
+            "3. 비빔면과 양념장을 함께 비벼서 먹습니다.",
+            "4. 구운 삼겹살과 물만두를 토핑으로 올립니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살 비빔면",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang",
+            "bacon",
+            "kimchi",
+            "pickled radish",
+            "egg",
+            "cucumber",
+            "tomato"
+        ],
+        "guide_steps_ko": [
+            "1. 물을 끓여주세요.",
+            "2. 면을 삶아주세요.",
+            "3. 익힌 면을 찬물에 헹구어 주세요.",
+            "4. 비빔면 만들기 해주세요.",
+            "5. 전자레인지에 데운 삼겹살 비베이컨과 열무물김치를 넉넉하게 비빔면에 올려주세요."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 먼저 달군 후라이팬 위로 냉삼겹을 올려 구워본다. 후추를 솔솔 뿌려주고, 소금도 적당량을 전체적으로 뿌린다.",
+            "2. 전분가루를 뿌려서 겉면이 바삭하게 구워진 후, 반대편도 마찬가지 방식으로 굽는다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "mizuna",
+            "garlic",
+            "ssamjang",
+            "lettuce"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce)와 미나리(mizuna) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살 미나리 술찜",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 양배추(lettuce)를 0.5cm 간격으로 잘라 준비합니다.",
+            "3. 미나리 300g 대패삼겹살 세로 길이에 맞춰 잘라 준비합니다.",
+            "4. 미나리는 줄기만 사용하여 조금 넉넉하게 500g 준비합니다.",
+            "5. 대패삼겹살을 길게 펼쳐주고 왼쪽 끝에 미나리를 올려 돌돌 말아줍니다.",
+            "6. 양배추를 냄비 바닥에 먼저 깔아줍니다.",
+            "7. 미나리 삼겹살을 자른 단면이 보이도록 올려줍니다.",
+            "8. 냄비에 드라이한 화이트 와인 두 바퀴 둘러 주고, 소금 두세 꼬집, 후추 약간을 추가합니다.",
+            "9. 뚜껑을 닫고 중불에서 10분 동안 쪄줍니다.",
+            "10. 양배추를 그릇에 먼저 깔아줍니다.",
+            "11. 맛있게 익은 삼겹살 미나리를 양배추 위에 올려줍니다.",
+            "12. 핑크페퍼 홀 약간을 올려주어 색감을 더욱 돋보깁니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 대파대창은 대파를 삼겹살로 말아 만듭니다.",
+            "3. 대파는 약 1mm 간격으로 칼집 내서 익혔을 때 질겨지지 않도록 합니다.",
+            "4. 칼집 낸 대파에 전분가루를 앞, 뒤로 골고루 펴 바릅니다.",
+            "5. 얇은 삼겹살 5줄을 세로로 겹치게 놓고 대파를 올려서 돌돌 말아줍니다.",
+            "6. 대파대창을 달군 팬에 굽습니다.",
+            "7. 홍게간장 8큰술, 물엿 4큰술, 참기름 4큰술, 알룰로스 4큰술을 볼에 넣고 잘 섞어 대파대창 소스를 만듭니다.",
+            "8. 삼겹살이 노릇노릇해지면 간장 소스를 붓고 후추를 뿌린 뒤 중약불에서 졸여줍니다.",
+            "9. 대파대창이 익는 동안 물을 약간 넣고 뚜껑을 덮어 스팀으로 속까지 익힙니다.",
+            "10. 겉면을 토치로 살짝 구워주면 불맛 풍미로 더 맛있습니다."
+        ]
+    },
+    {
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 노릇하게 구운 마늘(garlic)을 올립니다.",
+            "3. 쌈장(ssamjang)을 곁들여 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 묵은지(kimchi wrap)와 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "radish leaves",
+            "garlic",
+            "pepper",
+            "herb salt",
+            "soy sauce-based sauce"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 대파(radish leaves) 잎 부분을 가위로 잘라서 대파를 펴서 그 부분에 삼겹살을 한 입 크기로 잘라서 냄비에 담습니다.",
+            "3. 양파, 생강, 후추, 허브솔트, 맛술을 양념장에 넣고 냄비에 담습니다.",
+            "4. 대파와 삼겹살을 세로로 차곡차곡 예쁘게 담아서 양파와 생강 위에 올립니다.",
+            "5. 양념장을 위에 뿌리고 뚜껑을 닫아 센 불에서 20분, 약한 불에서 10분 동안 구워줍니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "radish",
+            "spicy sauce"
+        ],
+        "guide_steps_ko": [
+            "1. 도톰한 생삼겹살(pork belly)을 불판 위에 올립니다.",
+            "2. 삼겹살을 맛있게 굽기 위해 양념과 후추를 살짝 바릅니다.",
+            "3. 느끼함을 잡아줄 살얼음 열무국수를 곁들입니다.",
+            "4. 상추(lettuce), 깻잎(garlic), 미나리(radish)와 함께 쌈을 싸 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "냉동삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 냉동삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "미나리삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "mizuna",
+            "ssamjang",
+            "garlic",
+            "ginger"
+        ],
+        "guide_steps_ko": [
+            "1. 미나리(mizuna)와 고기(pork belly)를 준비합니다.",
+            "2. 노릇하게 구운 삼겹살을 접시에 옮깁니다.",
+            "3. 미나리를 살짝 익혀 올려줍니다.",
+            "4. 쌈장(ssamjang), 마늘(garlic), 생강(ginger)을 곁들여 먹습니다.",
+            "5. 쌈 채소와 함께 싸 먹거나, 구운 김치와 곁들이면 맛이 더욱 풍부해집니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살구이",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang",
+            "herb salt",
+            "pepper paste",
+            "fermented black beans",
+            "radish salad"
+        ],
+        "guide_steps_ko": [
+            "1. 신선하고 두툼한 냉장 삼겹살(pork belly)을 후라이팬에서 구웠습니다.",
+            "2. 굵은 소금 솔솔 뿌리고 앞뒤로 뒤집어가며 노릇노릇하게 구웠습니다.",
+            "3. 잘 구운 삼겹살을 먹기 좋게 잘라줍니다.",
+            "4. 허브솔트(herb salt)에 참기름을 넣어서 기름장을 만들었습니다.",
+            "5. 잘 구운 삼겹살 한점 기름장에 콕 찍어서 먹으면 꿀맛입니다.",
+            "6. 묵은지를 삼겹살기름에 달달달 볶아서 묵은지볶음을 만들었습니다.",
+            "7. 매콤한 묵은지볶음에 삼겹살을 올려서 먹으면 진짜 맛있습니다.",
+            "8. 상추(lettuce) 대신에 상큼한 부추무침(radish salad)을 만들었습니다.",
+            "9. 삼겹살과 부추무침의 꿀조합입니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "radish",
+            "garlic",
+            "sesame oil",
+            "gochujang",
+            "egg"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 파채(radish)를 준비하고, 중간의 심 부분은 따로 다른 요리에 활용하며, 파채만 만들어줍니다.",
+            "3. 파채를 찬물에 담가 매운맛과 진액을 빼줍니다.",
+            "4. 고기 양념장을 냄비에 넣고 보글보글 끓여서 식혀줍니다.",
+            "5. 파채와 양념장을 고기에 넣고 조물조물해서 보관해줍니다.",
+            "6. 고기는 잠깐 냉장고에서 숙성시킵니다.",
+            "7. 프라이팬에 포일을 깔아주고, 고기를 적당히 올려 익히며, 중간을 비우고 파채를 올립니다.",
+            "8. 계란 노른자를 올리면 완성됩니다."
+        ]
+    },
+    {
+        "main_food": "대패삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 대패삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 양파, 사과, 진간장, 소주, 다진마늘 등을 양념으로 묽힌 후 찌어낸 양념을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 쌈장(ssamjang)을 올려 먹습니다.",
+            "3. 고운 고춧가루 1술, 설탕 1술, 물엿 1술, 굴소스 1술, 다진 마늘 1술, 쌈장 3술, 맛술 1술을 섞어 삼겹살에 여러 번 덧발라 굽습니다.",
+            "4. 삼겹살 한 면에 칼집을 넣은 뒤, 맛술 1술을 넣고 약 15분간 숙성한 후, 달군 팬에 올려 겉면이 70% 정도 익을 때까지 굽습니다.",
+            "5. 쌈장소스를 앞, 뒤로 골고루 바르면서 약불에 은은하게 삼겹살을 굽습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang",
+            "radish",
+            "gochujang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 양파(garlic), 쌈장(ssamjang), 대파(radish), 된장(gochujang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang",
+            "cabbage kimchi",
+            "napa cabbage",
+            "garlic",
+            "ginger",
+            "soy sauce",
+            "chili paste",
+            "rice cake",
+            "bean sprouts"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 양파(garlic), 파(kimchi)를 올려 먹습니다.",
+            "3. 명이나물(napa cabbage)은 미네랄과 비타민이 풍부해 건강에도 좋습니다.",
+            "4. 마늘(garlic)은 삼겹살과 함께 먹으면 고기의 비린내를 잡아주고 고기 맛을 돋우며 소화를 돕습니다.",
+            "5. 떡(rice cake)은 쫄깃한 식감이 삼겹살과 잘 어울립니다.",
+            "6. 냉면(noodle)은 고기와 냉면의 조합이 든든하며, 냉면을 감은 형태로 먹으면 더욱 맛있습니다.",
+            "7. 김치(kimchi)는 삼겹살과 함께 굽는 것이 좋으며, 고기의 기름이 김치에 흐르게 하여 더욱 맛있다.",
+            "8. 찌개(soup)는 다양한 재료와 함께 맛있는 맛을 낼 수 있으며, 특히 삼겹살을 넣으면 진한 감칠맛을 낼 수 있습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 소금, 후추를 넣어 쉐킷쉐킷 해준 후 30분간 방치한 후, 에어프라이어에 넣어 180℃에서 25분 동안 구워줍니다.",
+            "3. 구운 삼겹살을 4등분하여 준비합니다.",
+            "4. 기름장과 쌈장을 만듭니다. 기름장에 허브솔트를 조금 넣어 향과 맛을 더합니다.",
+            "5. 양파와 마늘을 미니 오븐에서 조금 더 익혀 준비합니다.",
+            "6. 양배추를 채썰고 양념을 만듭니다. 간장 3:물 10:설탕 0.5:식초 1의 비율로 만듭니다.",
+            "7. 파 무침도 조금 만듭니다.",
+            "8. 준비된 쌈야채와 양념을 곁들여 삼겹살을 싸 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 데리야끼 소스(ssamjang)를 올려 먹습니다.",
+            "3. 통마늘(garlic)과 양파(양파), 대파(대파)를 준비하여 데쳐 기름기를 뺍니다.",
+            "4. 데친 삼겹살을 팬에 넣고 데리야끼 소스(ssamjang), 물, 통마늘, 양파, 대파를 함께 조려줍니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "비빔면",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 양념(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 비빔면 양념장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "mizuna",
+            "kimchi",
+            "garlic",
+            "ssamjang",
+            "cabbage",
+            "ginger",
+            "soy sauce",
+            "pepper"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 미나리(mizuna)와 실비김치(kimchi)를 함께 올려 먹습니다.",
+            "3. 고기와 함께 마늘(garlic), 쌈장(ssamjang), 배추(cabbage), 고추장(ginger), 간장(soy sauce), 고춧가루(pepper)를 곁들입니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 볶은 마늘(garlic)과 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "생삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 생삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 곁들여진 마늘(garlic)과 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "교하 솥뚜껑삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang",
+            "radish",
+            "cabbage",
+            "bean sprouts",
+            "mizuna",
+            "kimchi"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce), 마늘(garlic), 쌈장(ssamjang), 미나리(mizuna), 고사리(radish), 콩나물(bean sprouts), 김치(kimchi)를 준비합니다.",
+            "3. 솥뚜껑에 고기를 올리고, 채소들을 차례대로 올려줍니다.",
+            "4. 사장님께서 직접 불에 올려주는 고기를 기다립니다.",
+            "5. 고기가 완성되면, 밑반찬과 함께 식사합니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 매운 소스(ssamjang)를 올려 먹습니다.",
+            "3. 고기와 소스를 파김치(paringsimchi)에 싸서 먹습니다.",
+            "4. 비빔 막국수(bibim makguksu)와 함께 즐깁니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 280시간 숙성된 pork belly를 준비합니다.",
+            "2. 상추(lettuce)와 마늘(garlic)을 곁들입니다.",
+            "3. 쌈장(ssamjang)과 함께 즐깁니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 얹은 마늘(garlic)과 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "radish sprouts",
+            "garlic chives",
+            "pickled radish",
+            "spicy pickled mustard greens",
+            "lettuce",
+            "garlic",
+            "sesame salt"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 미나리(radish sprouts), 마늘쫑(garlic chives), 장아찌(pickled radish), 신김치(spicy pickled mustard greens)를 준비합니다.",
+            "3. 상추(lettuce) 위에 고기와 미나리, 마늘쫑, 장아찌, 신김치를 올려 먹습니다.",
+            "4. 안방그릴을 210도로 예열하고 삼겹살을 굽습니다.",
+            "5. 삼겹살이 거의 다 구워졌을 때 미나리와 신김치를 올려서 구워줍니다."
+        ]
+    },
+    {
+        "main_food": "숙성 삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 숙성된 돼지고기(pork belly)를 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 김치, 콩나물, 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "radish",
+            "cabbage",
+            "garlic",
+            "pickled radish",
+            "pickled mustard greens",
+            "sesame paste",
+            "ginger"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce), 브로콜리(radish), 알배추(cabbage), 마늘(garlic), 매운김치(pickled radish), 매운무침(pickled mustard greens), 참치장(sesame paste), 고추장(ginger)과 함께 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 부추 무침 소스를 준비해 부추(lettuce)와 양파(garlic)를 잘라 준비합니다.",
+            "3. 부추 무침을 만들어 부추와 양파를 함께 먹기 좋게 잘라 준비합니다.",
+            "4. 부추 무침을 준비한 후, 삼겹살과 함께 상추(lettuce) 위에 올려서 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "미나리삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 장아찌, 묵은지(ssamjang)를 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 제공되는 마늘(garlic)과 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살김밥",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 남은 마늘(garlic)과 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살김치찜",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "radish kimchi",
+            "lettuce",
+            "garlic",
+            "red pepper flakes",
+            "sesame oil",
+            "ginger",
+            "soy sauce",
+            "chili sauce",
+            "sugar",
+            "alcohol",
+            "ginger juice"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 양파와 대파를 손질하여 김치찜 재료를 준비합니다.",
+            "3. 약불에서 팬을 예열하고 지방 있는 부분을 바닥으로 두고 겉면을 노릇하게 구워줍니다.",
+            "4. 구운 삼겹살에 묵은지를 올리고, 물 600ml를 부어줍니다.",
+            "5. 양념재료 고추장 2, 다진마늘 1, 맛술 2, 설탕 1, 참치액 1, 진간장 1, 후추 톡톡을 넣어 양념을 풀어줍니다.",
+            "6. 센불에서 5분정도 팔팔 끓여줍니다.",
+            "7. 뚜껑을 닫고 중약불로 30-40분 푹 끓여줍니다. 중간에 김치를 살짝 뒤집어가면 전체적으로 부드럽게 간이 잘 배어들게 합니다.",
+            "8. 국물이 졸고 고기가 부드럽게 익으면 양파와 대파를 넣어 3분정도 더 끓여 마무리하면 김치찜 완성"
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살짜파게티",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 먼저 삼겹살(pork belly)을 한입 크기로 썰어 팬에 천천히 굽습니다.",
+            "2. 반쯤 익은 삼겹살에 슬라이스한 마늘(garlic)과 양파를 넣고 함께 볶습니다.",
+            "3. 간장 1큰술을 팬 가장자리에 둘러 넣고 살짝 눌리듯이 볶아줍니다.",
+            "4. 굴소스, 맛술, 설탕을 추가하여 한 번 더 볶습니다.",
+            "5. 감칠맛을 더하고 싶다면 소량의 MSG를 추가합니다.",
+            "6. 짜파게티 3봉지 분량의 건더기스프와 분말스프를 넣고 잘 섞습니다.",
+            "7. 면 3개 기준 물 400~500ml를 붓고 면을 그대로 넣어 끓입니다.",
+            "8. 면이 다 익고 국물이 자작해지면 불을 끄고 접시에 옮깁니다."
+        ]
+    },
+    {
+        "main_food": "훈연 삼겹살구이",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 훈연 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 담근 대파(garlic)와 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 마늘(garlic)을 올립니다.",
+            "3. 쌈장(ssamjang)을 추가하여 한입에 먹을 수 있도록 조합합니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "radish",
+            "pickled radish",
+            "sesame sauce"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce), 파채(radish), 미박삼겹살(pickled radish) 위에 고기를 올립니다.",
+            "3. 고기 위에 참치장(sesame sauce)을 바르고 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 통감자 슬라이스, 마늘쫑(garlic), 쌈채소(ssamjang)를 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "미나리 삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "mizuna",
+            "lettuce",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce)와 미나리(mizuna) 위에 고기와 함께 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "냉동삼겹살한상",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 냉동삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce)에 고기와 함께 마늘(garlic)과 쌈장(ssamjang)을 싸서 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "kimchi",
+            "garlic",
+            "mizuna"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 김치(kimchi), 마늘(garlic), 미나리(mizuna)를 올려 먹습니다."
+        ]
+    },
+    {
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "오겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 오겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "kimchi",
+            "mung bean sprouts",
+            "radish"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 미나리(mung bean sprouts), 김치(kimchi), 콩나물과 함께 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "미나리 삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 미나리 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 미나리(lettuce)와 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "찐 삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "basil",
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 부산 해운대 현지인이 추천하는 찐 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce)와 바질(basil)을 얹고, 고기와 함께 구운 마늘(garlic)과 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang",
+            "kimchi",
+            "cheese",
+            "pickled radish",
+            "radish sprouts",
+            "salad",
+            "spicy fermented bean paste"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기를 올리고, 마늘(garlic)과 김치(kimchi)를 얹습니다.",
+            "3. 치즈(cheese)를 올리고, 다양한 소스(ssamjang, spicy fermented bean paste)로 조합하여 먹습니다.",
+            "4. 볶음밥과 돌판짜파게티를 추가로 주문하면, 치즈가 녹아서 더욱 맛있는 조합이 됩니다."
+        ]
+    },
+    {
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang",
+            "meat broth",
+            "chili sauce",
+            "pickled radish",
+            "mung bean sprouts",
+            "seafood"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다.",
+            "3. 고기 본연의 맛을 살리기 위해 소금에 찍어 먹습니다.",
+            "4. 김숙성만의 특별 수제 소스(lime salt, peppered shrimp sauce, fermented black beans)를 취향에 맞게 곁들입니다.",
+            "5. 묵은지(mung bean sprouts)와 미나리(mixed vegetables)와 함께 고기 맛을 배가합니다.",
+            "6. 시그니처 양념게장밥 위에 삼겹살 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang",
+            "tartar sauce"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 대패삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 마늘(garlic), 쌈장(ssamjang), 타르타르 소스(tartar sauce)를 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_ingredients": [
+            "shrimp"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "tartar sauce",
+            "anchovy",
+            "radish sprouts",
+            "angel hair",
+            "egg omelet",
+            "mushroom soup"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 조리된 쭈꾸미(shrimp)가 준비됩니다.",
+            "2. 깻잎(lettuce) 위에 쭈꾸미와 대패 삼겹살(pork belly)을 올립니다.",
+            "3. 콩나물(radish sprouts), 날치알(anchovy), 마늘(garlic), 천사채(angel hair), 게샐러드(radish sprouts), 계란찜(egg omelet), 어묵탕(mushroom soup)을 추가로 올립니다.",
+            "4. 모든 재료가 조화롭게 어우러져 완성된 쌈밥을 즐깁니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang",
+            "cabbage",
+            "newlyensiled mushroom",
+            "chopped garlic",
+            "soy sauce-based meat paste",
+            "anchovy paste"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce)와 깻잎(cabbage) 위에 고기를 올립니다.",
+            "3. 고기에 묵은지관자삼합(newlyensiled mushroom), 새송이(newlyensiled mushroom), 육회(chopped garlic), 참깨소스(soy sauce-based meat paste), 갈비양념 목살구이(garlic)를 올려서 감싸 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 양념된 쭈꾸미, 고사리 단무지, 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "대패삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 대패삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "비빔밥",
+        "main_ingredients": [
+            "shrimp"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang",
+            "chicken cutlet",
+            "noodle soup",
+            "pickled radish",
+            "mayonnaise",
+            "tartar sauce",
+            "kimchi"
+        ],
+        "guide_steps_ko": [
+            "1. 신선한 쭈꾸미(shrimp)를 준비합니다.",
+            "2. 상추(lettuce)와 마늘(garlic)을 준비하여 쌈싸먹는 데 사용합니다.",
+            "3. 쌈무(sammyeo), 파스타 마요네즈 무침(mayo sauce), 타르타르 소스(tartar sauce), 김(kimchi) 등을 준비합니다.",
+            "4. 쭈꾸미와 함께 싸먹는 천사채(thousand-year-old radish), 날치알(ocean perch), 쌈무를 순서대로 먹으면 맛있습니다.",
+            "5. 오뎅탕(noodle soup)을 겨울철 뜨끈하게 먹을 수 있습니다.",
+            "6. 쭈꾸미, 천사채, 날치알의 식감은 최고입니다.",
+            "7. 볶음밥(fried rice)을 철판에 눌러 먹으면 더욱 맛있습니다.",
+            "8. 밥까지 볶아 드시면 배가 부르게 됩니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 반찬으로 제공되는 마늘(garlic)과 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 마늘(garlic)과 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "돈까스",
+        "main_ingredients": [
+            "pork cutlet"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "pickled radish",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 바삭하게 튀긴 돈까스(pork cutlet)를 준비합니다.",
+            "2. 쌈무(lettuce)와 떡spiracy를 올리고, 쌈장(ssamjang)을 부어줍니다.",
+            "3. 깨를 잘 갈아서 소스에 섞습니다.",
+            "4. 돈까스를 쌈무와 함께 올리고, 떡spiracy를 추가합니다.",
+            "5. 마지막으로 각종 채소를 올려서 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 대파(garlic), 삼색김치(ssamjang)를 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_ingredients": [
+            "shredded pork"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 탕수육(shredded pork)을 준비합니다.",
+            "2. 상추(lettuce) 위에 탕수육과 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "김치찌개",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 신선한 돼지고기(pork belly)를 준비합니다.",
+            "2. 상추(lettuce)와 깻잎(garlic)에 김치찌개(ssamjang)를 올려 쌈으로 싸 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "꽃삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 꽃삼겹살(pork belly)을 잘 구워 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 꼬들살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기를 올리고, 구운 마늘(garlic)과 쌈장(ssamjang)을 곁들여 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 처음 삼겹살(pork belly)은 소금에 찍어 드시고요.",
+            "2. 두 번째는 멜 젓(mel jolt)과 된장(ssamjang)에 드시고요.",
+            "3. 그다음에는 김(kim)을 구워서 고기를 올린 다음 사이드 메뉴를 곁들여 싸먹으면 맛있어요."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "radish",
+            "garlic",
+            "kimchi",
+            "mung bean sprouts",
+            "rice cake",
+            "coconut flour",
+            "soy sauce-based sauce"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 두툼한 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce), 단호박(radish), 마늘(garlic), 김치(kimchi), 콩나물(mung bean sprouts) 등을 준비합니다.",
+            "3. 떡(rice cake)과 함께 제공되는 달콤한, 매콤한, 짭짤한 소스(soy sauce-based sauce)를 준비합니다.",
+            "4. 두툼한 삼겹살은 마구마구 익어주시며, 고소하게 익힌 콩나물도 함께 드시도록 합니다.",
+            "5. 익어가는 삽겹살을 먹기 좋게 썰어내서, 코코넛 가루(coconut flour)로 고소한 색색의 떡을 살짝 올려 따뜻하게 즐깁니다.",
+            "6. 마지막으로, 소스(cocoanut flour-based sauce)를 찍어 떡(si-sam)에 싸드세요."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 고추장(ssamjang), 마늘(garlic)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "갈매기살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 갈매기살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 양배추 무침, 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 한 장 펼치고 고기 한 점 올리고, 새우젓 조금 찍어서 보쌈김치 한 조각 올리고, 쌈장(ssamjang) 살짝 올려줍니다.",
+            "3. 이 조합이 왜 맛있냐면, 배추는 아삭한 식감을 줘요. 새우젓은 짭짤하고 감칠맛이 올라와요. 보쌈김치는 시원하고 살짝 달달한 맛이에요. 쌈장은 묵직하고 깊은 풍미를 더해줘요. 이 조합이 한 입에 다 들어오면 진짜 맛 조합이 장난 아니에요."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 우삼겹과 삼겹살을 우삼겹이 있는 쪽으로 기울인 불판 위에 올려서 기름이 내려오도록 합니다.",
+            "3. 상추(lettuce)와 마늘(garlic)을 준비하고 쌈장(ssamjang)을 준비합니다.",
+            "4. 고기를 구운 후, 상추 위에 고기와 마늘, 쌈장을 올려서 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 두툼한 돼지고기 삼겹살(pork belly)을 준비합니다.",
+            "2. 아삭한 청경채(lettuce)와 대파(garlic)를 준비하고, 청경채를 살짝 데쳐줍니다.",
+            "3. 준비한 양념소스(ssamjang)와 함께 고기를 조리합니다.",
+            "4. 고기는 겉면을 노릇하게 구워 기름기를 제거한 후, 양념소스와 함께 끓여줍니다.",
+            "5. 마지막으로, 양념소스가 걸쭉해질 때까지 물엿을 더해줍니다.",
+            "6. 준비한 청경채와 함께 싸 먹으면 완성된 동파육이 나옵니다."
+        ]
+    },
+    {
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce)와 고기를 담는 그릇에 쌈장(ssamjang)을 올려줍니다.",
+            "3. 고기 위에 상추(lettuce)를 얹어 척척 싸먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살간장조림",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 양파(garlic)와 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce)와 함께 마늘(garlic)을 고기에 추가하여 잡내 제거합니다.",
+            "3. 차오차이(ssamjang) 소스를 붓고 고기를 쫄이게 합니다.",
+            "4. 청경채(lettuce)를 올려 청경채의 아삭한 식감을 살리기 위해 뚜껑을 덮어 2분간 더 쪄줍니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 레몬코쇼(lemon ko sho), 청양고추(garlic)를 올려 먹습니다.",
+            "3. 쌈장(ssamjang)을 곁들여 더욱 맛있게 즐깁니다."
+        ]
+    },
+    {
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 숙주 삼겹살(pork belly)을 준비하고, 냉장고에서 꺼낸 채소와 함께 조리합니다.",
+            "2. 숙주 삼겹살 위에 상추(lettuce)와 구운 마늘(garlic)을 올립니다.",
+            "3. 우향다실 맛간장(ssamjang)을 소스로 사용하여 숙주 삼겹살을 찌릅니다.",
+            "4. 맛간장 3스푼과 다진 마늘을 섞어 소스를 만듭니다.",
+            "5. 맛간장 소스를 숙주 삼겹살 위에 발라서 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce)와 마늘(garlic)을 준비하고, 쌈장(ssamjang)을 준비합니다.",
+            "3. 고기와 야채를 함께 담그거나 볶아서 먹습니다.",
+            "4. 추가적인 야채를 준비하고, 고기를 소스에서 건져서 살짝 볶아줍니다.",
+            "5. 쌈을 준비하고, 고추나 마늘을 추가하여 더욱 맛있게 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살 보쌈",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 얇게 써서 준비한 마늘소스(ssamjang)를 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang",
+            "radish",
+            "pepper paste",
+            "chopped chicken"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 대파(radish)와 매운장(pepper paste)을 준비하고, 대파는 파란 부분만 사용하여 작은 조각으로 자릅니다.",
+            "3. 대파를 아래에 깔고, 삼겹살을 위에 올리고 다시 대파를 올려서 2~3단을 만듭니다.",
+            "4. 대파와 삼겹살 사이에 좋아하는 반찬을 추가하여 채워줍니다.",
+            "5. 준비한 반찬 위에 쌈장(ssamjang)을 올려서 완성된 보쌈을 즐깁니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 마늘(garlic)을 올리고, 쌈장(ssamjang)을 뿌립니다.",
+            "3. 청경채(白菜)를 소금물에 데친 후, 깨끗한 물에 헹군 후 잔열을 제거해 물기를 짜낸 뒤, 4등분으로 잘라 준비합니다.",
+            "4. 준비된 청경채를 삼겹살과 쌈장(ssamjang)을 싸서 세팅합니다."
+        ]
+    },
+    {
+        "main_food": "페퍼런치 볶음밥",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "rice",
+            "corn",
+            "pepper",
+            "butter",
+            "soy sauce",
+            "garlic",
+            "pickles",
+            "kimchi"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 돼지고기(pork belly)를 준비합니다.",
+            "2. 밥(rice)과 옥수수玉米(corn), 후추(pepper), 버터(butter), 간장(soy sauce), 다진마늘(garlic), 피클(pickles), 김치(kimchi)를 준비합니다.",
+            "3. 팬을 가열시키고 올리브오일을 두르고 햄버거 한 조각을 넣어 누룽지처럼 만듭니다.",
+            "4. 대패삼겹살(pork belly)을 적당히 올려 굽습니다.",
+            "5. 버터를 올리고 옥수수玉米(corn)와 대파(garlic)를 듬뿍 올립니다.",
+            "6. 만들어둔 소스를 전부 부어주고 후추까지 뿌린 후에 볶아줍니다.",
+            "7. 밥을 계속 눌러줍니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살주먹밥",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "dijon mustard"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 간장소스(dijon mustard)를 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang",
+            "radish sprouts",
+            "kimchi",
+            "pickled radish",
+            "wasabi",
+            "sesame sauce",
+            "cheddar cheese seasoning",
+            "salt"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce)와 마늘(garlic)을 먼저 준비하고, 쌈장(ssamjang)과 명이나물(radish sprouts), 김치(kimchi), 파채절임(pickled radish), wasabi, 참기름장(sesame sauce), 체다치즈 시즈닝(cheddar cheese seasoning) 등을 셀프바에서 가져옵니다.",
+            "3. 고기와 함께 곁들여 먹을 수 있는 다양한 소스 중에서 말돈 소금(mixed salt), 양평회관 특제소스(special sauce), 씨앗쌈장(seed sesame sauce), 체다치즈 시즈닝(cheddar cheese seasoning), 말돈 지방에서 나는 소금(mixed salt from the coastal area), 소금(salt)을 선택하여 고기에 찍어 먹습니다.",
+            "4. 고기와 함께 곁들여 먹는 야채 중에서 팽이버섯(mushroom), 감자(carrot), 고사리(kale), 미나리(mustard greens), 숙주(bok choy), 버섯(mushroom), 김치(kimchi) 등을 곁들여 먹습니다.",
+            "5. 고기와 함께 곁들여 먹는 파채절임(pickled radish)을 새콤하게 무쳐서 고기에 올립니다.",
+            "6. 고기와 야채를 불판에 올려 구워 익히고, 고기와 야채가 잘 섞이도록 뒤집습니다.",
+            "7. 마지막으로 무한리필 폭탄계란찜을 곁들여 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살 돼지고기덮밥",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "cabbage",
+            "garlic",
+            "donburi sauce"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 양배추(cabbage)를 한입 크기로 썰어줍니다.",
+            "3. 삼겹살 위에 양배추와 돈부리 타래(donburi sauce) 2큰술을 올려 익힙니다.",
+            "4. 그릇에 밥을 담고 양배추와 소스를 올려줍니다.",
+            "5. 마지막으로 삼겹살을 차곡차곡 올려줍니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "radish sprouts",
+            "kimchi",
+            "garlic",
+            "alcohol sauce",
+            "shrimp paste sauce",
+            "pepper sauce",
+            "mayonnaise and wasabi sauce"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce), 무생채(radish sprouts), 김치(kimchi)와 함께 고기와 함께 먹습니다.",
+            "3. 다양한 소스(alcohol sauce, shrimp paste sauce, pepper sauce, mayonnaise and wasabi sauce)를 곁들여 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 와사비 고추장소스(ssamjang)를 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "냉동삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 냉동삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 올라온 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살배추찜",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "nappa cabbage",
+            "garlic",
+            "ginger",
+            "sesame oil",
+            "soy sauce",
+            "vinegar",
+            "brown sugar",
+            "green onions",
+            "pepper",
+            "red pepper flakes",
+            "sesame seeds"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 숙주(nappa cabbage)를 세척하고 바닥에 깔아둡니다.",
+            "3. 알배추(nappa cabbage)를 한잎씩 반자르고, 깻잎(green onions)을 대패하여 위에 올립니다.",
+            "4. 삼겹살을 넉넉하게 둥글게 썰어 소스에 찍어먹습니다.",
+            "5. 청주(Chinese rice wine) 한바퀴 둘러주고, 기본 간장을 만듭니다.",
+            "6. 소스에 다진파(green onions), 다진마늘(garlic), 고춧가루(red pepper flakes), 고추(green chili), 깨(seeds)를 넣어 넉넉하게 만듭니다.",
+            "7. 찜기에 물을 끓여서 숙주와 알배추, 깻잎을 올려 15분 동안 찜합니다."
+        ]
+    },
+    {
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 예열한 팬에 삼겹살(pork belly)을 올리고 양면을 각각 1분 30초씩 총 3분 정도 익혀줍니다.",
+            "2. 어느 정도 익은 삼겹살은 먹기 좋은 한입 크기로 잘라줍니다.",
+            "3. 양면을 30초씩 두 번 총 2분 정도 더 구워줍니다.",
+            "4. 마라 소스와 손질한 채소를 넣어 센 불에서 약 2분 정도 빠르게 볶아줍니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 간장양파절임(ssamjang)을 올려 먹습니다.",
+            "3. 양파는 반으로 갈라 채썰어주고, 쪽파는 송송 썰어 준비해줍니다.",
+            "4. 채 썬 양파는 찬물에 담가 매운맛을 뺴주는데 5~10분 정도 담가둡니다.",
+            "5. 찬물에 담근 후 건져서 야채탈수기나 체에 받쳐 물기를 빼줍니다. 남은 물기는 키친타월로 가볍게 두들겨 없애줍니다.",
+            "6. 설탕 1/2, 식초 2, 레몬즙 1, 양조간장 2, 진간장 2, 매실액 1스푼을 넣어 설탕이 녹도록 잘 섞어줍니다.",
+            "7. 프라이팬에 불이 달궈지면 삼겹살을 올리고 지글지글 구워줍니다. 자주 뒤집으면 맛 없는거 아시죠?",
+            "8. 한쪽면이 노릇하고 바삭하게 익었을 때 뒤집어서 구워주고 먹기좋은 크기로 잘라줍니다.",
+            "9. 기름이 충분히 나오면 새송이버섯, 팽이버섯도 함께 넣어 구워줍니다.",
+            "10. 만들어놓은 양파절임소스에 물기를 쫙 뺀 양파와 쪄파를 넣고 가볍게 무쳐줍니다.",
+            "11. 통깨를 솔솔 뿌려주면 고소한 맛이 추가됩니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "sweet chili sauce",
+            "onion"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기를 올리고, 양파절임(onion)과 스위트칠리 소스(sweet chili sauce)를 얹습니다.",
+            "3. 고기의 고소한 기름기와 소스의 깔끔한 단맛이 만나서 입안이 리프레시되며, 삼겹살이 끊임없이 들어갑니다."
+        ]
+    },
+    {
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang",
+            "onion",
+            "broccoli",
+            "cabbage",
+            "sweet chili sauce",
+            "sweet onion sauce"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce)와 양파(onion)를 준비하고, 양파는 양파절임소스(sweet onion sauce)로 양파절임을 만듭니다.",
+            "3. 쌈장(ssamjang)과 소스(sweet chili sauce)를 준비합니다.",
+            "4. 양파절임과 삼겹살을 함께 접시에 올리고, 양념을 곁들이며 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살 김밥",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "cucumber",
+            "carrot",
+            "pickled radish",
+            "mayo sauce with ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 1~1.5cm 두께로 컷팅된 삼겹살 2줄(200g)을 준비해 주시고, 맛소금과 후추를 약간씩 뿌려서 노릇하게 구워줍니다.",
+            "2. 오이와 당근은 적당량 채 썰어 준비해 주시고, 상추나 깻잎 약 6장은 깨끗하게 헹궈서 물기를 완전히 제거한 다음 사용합니다.",
+            "3. 밥은 담백하게 만든 후, 김밥 김 1장 반을 사용해 김을 말아줍니다. 김밥 김 앞면을 밥 위에 먼저 올리고, 상추나 깻잎 3장, 삼겹살 1줄, 단무지 1줄과 오이, 당근을 적당히 올린 다음 짱짱하게 말아줍니다.",
+            "4. 김 끝부분에 밥알이나 물을 묻혀 단단하게 말아주고, 잘라서 터지지 않고 깔끔하게 자릅니다.",
+            "5. 쌈장 1큰술과 마요네즈 2큰술, 식초 반큰술, 참깨를 섞어 쌈장마요네즈 소스를 만듭니다.",
+            "6. 고소한 삼겹살과 아삭아삭한 채소의 조합이 최고인 삼겹살 김밥을 만들어서, 쌈장마요네즈 소스를 콕 찍어 먹으면 감칠맛이 대폭발합니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "nappa cabbage",
+            "garlic",
+            "sesame oil",
+            "soy sauce",
+            "vinegar",
+            "aloe sugar",
+            "ginger paste"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 알배추(nappa cabbage)를 깎아 준비합니다.",
+            "3. 숙주 또는 청경채를 깎아 준비합니다.",
+            "4. 소스 재료인 진간장 3큰술, 식초 1큰술, 설탕 또는 알룰로스 1/2큰술, 연겨자 1티스푼을 준비합니다.",
+            "5. 알배추 위에 삼겹살을 올리고, 숙주를 추가합니다.",
+            "6. 소금, 후추를 뿌린 후, 참치액 1큰술, 설탕 1큰술을 넣습니다.",
+            "7. 소주 한 바퀴 둘러줍니다.",
+            "8. 15분 동안 중불에서 삼겹살을 씁니다.",
+            "9. 소스를 따로 만든 후, 위에 부어줍니다.",
+            "10. 준비된 삼겹살과 야채를 함께 먹으면 맛있습니다."
+        ]
+    },
+    {
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "미나리 대패삼겹살 고기말이 찜",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "mung bean sprouts",
+            "garlic",
+            "soy sauce",
+            "onion",
+            "lemon juice",
+            "pepper",
+            "sesame oil",
+            "plum syrup",
+            "anchovy sauce",
+            "green onions"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 손질한 미나리(mung bean sprouts)를 반으로 잘라줍니다.",
+            "3. 대패삼겹살을 쭉 늘리고 미나리를 돌도리로 말아줍니다.",
+            "4. 미나리 대패삼겹살 고기말이 총 10롤을 찜기에 올립니다.",
+            "5. 찜솥에 물을 반 이상 채우고, 소주 2큰술을 넣습니다.",
+            "6. 미나리 고기말이 찜plorer 올리고, 갈릭허브 솔트시즈닝 작은술을 뿌립니다.",
+            "7. 뚜껑을 닫고 센 불에 가열한 후, 찜솥 물이 끓기 시작하면 딱 5분만 찜해줍니다.",
+            "8. 완성된 미나리 대패삼겹살 고기말이 찜을 접시에 꽃 모양으로 펼쳐줍니다.",
+            "9. 양파소스를 중간에 넉넉하게 찍어줍니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "sweet chili sauce"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 양파절임소스(sweet chili sauce)를 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "대패삼겹살 덮밥",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "radish",
+            "garlic",
+            "truffle sauce"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 대패삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce), 숙주나물(radish), 마늘(garlic)을 볶아줍니다.",
+            "3. 볶은 야채 위에 대패삼겹살과 트러플 소스(truffle sauce)를 올려줍니다."
+        ]
+    },
+    {
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 청경채(lettuce)는 밑동을 잘라 깨끗이 씻어주고, 통마늘(garlic)은 편으로 잘라 준비해줍니다.",
+            "3. 삼겹살(pork belly)을 먹기 좋은 크기로 잘라 프라이팬에 올려 익히며, 통마늘도 함께 넣고 익혀줍니다.",
+            "4. 삼겹살이 노릇하게 구워졌으면 차오차이 동파육 볶음소스를 모두 부어 2분 동안 볶아줍니다.",
+            "5. 소스가 골고루 베이게 볶아준 후, 청경채를 넣어 30초 더 볶아줍니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 마늘(garlic)과 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살 덮밥",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 야키니쿠 덮밥소스(ssamjang)를 올려 먹습니다."
+        ]
+    },
+    {
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 멜저장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "sesame oil",
+            "garlic paste",
+            "soy sauce",
+            "pepper"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기를 올리고, 마늘 기름장(garlic paste, sesame oil, soy sauce, pepper)을 듬뿍 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 칼집을 낸 마늘(garlic)을 올립니다.",
+            "3. 쌈장(ssamjang)을 곁들여 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 팬을 적당히 달군 후, 삼겹살을 올려서 중간 불에서 익힙니다.",
+            "3. 두꺼운 삼겹살은 자주 뒤집지 않고, 얇은 고기는 자주 뒤집으며 익힙니다.",
+            "4. 기름기가 많아서 팬에 붙는다면, 중간중간 키친타월로 닦아줍니다.",
+            "5. 함께 곁들일 상추(lettuce)와 마늘(garlic)을 준비합니다.",
+            "6. 쌈장(ssamjang)과 참기름을 섞어 소스를 만듭니다.",
+            "7. 삼겹살을 상추 위에 올려서 곁들임 재료와 함께 싸서 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 종이호일을 프라이팬에 깔아줍니다.",
+            "3. 종이호일 위에 삼겹살을 올려서 중약불로 천천히 구워줍니다.",
+            "4. 고기가 익으면 상추(lettuce)와 고기 위에 고기 기름을 흡수시키기 위해 기름종이를 올려줍니다.",
+            "5. 마지막으로 쌈장(ssamjang)과 마늘(garlic)을 올려서 완성된 삼겹살을 즐깁니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce)와 마늘(garlic)을 준비하고, 쌈장(ssamjang)을 준비합니다.",
+            "3. 삼겹살의 표면을 키친타월로 닦아서 물기를 제거합니다.",
+            "4. 두꺼운 삼겹살을 선택하여 고기를 더욱 안전하게 굽습니다.",
+            "5. 팬의 온도를 적당히 예열한 후, 고기를 천천히 굽습니다.",
+            "6. 팬에 기름을 최소화하고, 채소나 마늘을 곁들여 완충 효과를 낼 수 있습니다.",
+            "7. 뚜껑을 비스듬히 덮어 고기가 질리지 않도록 합니다.",
+            "8. 고기의 첫 면이 충분히 노릇해질 때까지 건드리지 않고 기다립니다.",
+            "9. 고기를 빨리 익히려고 누르지 않습니다.",
+            "10. 고기를 다 구운 후 팬을 청소하여 다음 조리 때 기름 튀는 것을 방지합니다."
+        ]
+    },
+    {
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 고기 위에 마늘가루를 얇게 뿌린 후 상추(lettuce)와 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 찬 팬에 삼겹살(pork belly)을 겹치지 않게 올려주세요.",
+            "2. 고기 1판 기준으로 물 2스푼을 팬에 넣어주세요.",
+            "3. 중약불에서 천천히 익혀줍니다.",
+            "4. 한쪽 면이 노릇해지면 뒤집어서 반대쪽도 구워주세요.",
+            "5. 마지막에는 불을 조금만 올려 겉면을 바삭하게 마무리하면 더 맛있어요."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 양념을 발라둔 마늘(garlic)과 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 고기는 강불로 겉을 빠르게 잡아줍니다.",
+            "3. 두께는 1.5~2cm로, 얇은 건 금방 말라버리고, 두꺼운 건 속이 천천히 익어 촉촉함이 유지됩니다.",
+            "4. 뒤집는 타이밍은 중요하며, 처음 올린 뒤 2분을 기다린 후 뒤집으면 비주얼이 살아납니다.",
+            "5. 굽기 완료 후에 소금을 뿌리면 기름 향과 소금의 감칠맛이 입안에서 선명해집니다.",
+            "6. 휴지는 30초~1분간 이루어져야 하며, 바로 잘라버리면 수분이 손실되어 부드러움이 떨어집니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [],
+        "guide_steps_ko": [
+            "1. 삼겹살(pork belly)을 준비합니다.",
+            "2. 냄비에 끓는 물을 준비합니다.",
+            "3. 삼겹살을 끓는 물에 20~30초 정도 담그고 즉시 꺼냅니다.",
+            "4. 키친타월로 물기를 닦아줍니다.",
+            "5. 달군 팬이나 불판에 바로 굽습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 길들어진 불판을 올립니다.",
+            "3. 고기와 불판을 올린 상추(lettuce) 위에 마늘(garlic)과 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 강불로 겉을 빠르게 잡아줍니다.",
+            "3. 두께는 1.5~2cm로 선택하여 고소함과 촉촉함을 유지합니다.",
+            "4. 2분 동안 고기를 냅두어 표면이 노릇하게 구워지도록 합니다.",
+            "5. 구운 뒤에 소금을 살짝 뿌려 기름 향과 감칠맛을 살립니다.",
+            "6. 30초~1분간 휴지를 통해 고기 속 육즙이 전체로 퍼져 부드러워집니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 마늘(garlic)과 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 구운 마늘(garlic)과 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 통주물 소재 솥뚜껑 불판에서 구운 마늘(garlic)과 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 구운 마늘(garlic)과 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 넣은 마늘(garlic)과 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 쌈장(ssamjang)을 올려 먹습니다.",
+            "3. 고기와 쌈장(ssamjang) 사이에 마늘(garlic)을 추가하여 더욱 맛있게 즐깁니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "onion",
+            "garlic",
+            "lettuce"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 양파(onion)와 마늘(garlic)을 함께 구워 양파의 퀘르세틴과 알리신 성분이 휘발되지 않도록 합니다.",
+            "3. 상추(lettuce) 위에 고기와 양파, 마늘을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 대파간장(garlic), ssamjang(김장)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "통삼겹살 에어프라이어 구이",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 통삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 마늘(garlic)과 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "kimchi",
+        "main_ingredients": [
+            "kimchi"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 먼저, 산들바람김치의 전라도식 파김치(kimchi)를 준비합니다.",
+            "2. 상추(lettuce) 위에 김치를 올리고, 양념(ssamjang)과 마늘(garlic)을 추가합니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 빼낸 기름, 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 스마트카라 에어프라이어로 기름을 뺀 후 겉바속촉하게 삼겹살(pork belly)을 구워 드세요.",
+            "2. 상추(lettuce) 위에 고기를 올리고, 구운 마늘(garlic)과 쌈장(ssamjang)을 곁들여 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 마늘(garlic)과 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "kimchi",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 마늘(garlic)과 김치(kimchi), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 마늘(garlic)과 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 마늘(garlic)과 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "onion",
+            "kimchi"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 냄비를 사용하여 불을 중불로 시작합니다. 고기에서 기름을 천천히 빼는 과정입니다.",
+            "3. 기름이 밖으로 튀지 않도록 뚜껑을 닫아 주고, 기름이 바삭해질 때까지 천천히 익혀줍니다.",
+            "4. 기름이 안정되면 뚜껑을 열고 고기를 뒤집어, 기름의 다음 면이 바삭해질 때까지 천천히 익혀줍니다.",
+            "5. 다 익은 고기 중에서 가운데에 있던 것부터 먼저 덜어내고, 남아 있는 기름으로 나머지 고기를 계속 구워줍니다.",
+            "6. 불을 올려 양파를 넣어 굽습니다. 돼지 기름에 구운 양파는 삼겹살과 함께 먹을 때 빠지면 아쉬운 조합입니다.",
+            "7. 남아 있는 기름에 김치를 넣어 볶아줍니다. 이렇게 구운 삼겹살은 겉은 바삭하고 속은 촉촉해서 집에서도 만족스러운 맛이 납니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 팬을 충분히 달구어 뜨거운 상태로 만듭니다.",
+            "3. 팬이 뜨거울 때까지 기다렸다가 삼겹살을 올립니다.",
+            "4. 삼겹살이 기름을 떨어뜨릴 때까지 기다린 후, 상추(lettuce)와 마늘(garlic)을 올려봅니다.",
+            "5. 마지막으로 쌈장(ssamjang)을 올려서 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "kimchi"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 마늘(garlic)과 김치(kimchi)를 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 양파(garlic)와 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 마늘(garlic)과 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 30분 전에 소금과 후추를 미리 소금판에 뿌려준 삼겹살(pork belly)을 준비합니다.",
+            "2. 9시까지 5일 동안 썰어준 삼겹살을 5분 동안 불에 구워줍니다.",
+            "3. 뚜껑을 덮고 5분 동안 뒤집어줍니다.",
+            "4. 마지막으로 마늘(garlic)을 추가하여 완성합니다.",
+            "5. 상추(lettuce) 위에 고기와 구운 마늘, 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 김치, 고사리, 콩나물과 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 함께 얇게 썰린 마늘(garlic)과 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "ssamjang"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기와 구운 마늘(garlic), 쌈장(ssamjang)을 올려 먹습니다."
+        ]
+    },
+    {
+        "main_food": "삼겹살",
+        "main_ingredients": [
+            "pork belly"
+        ],
+        "sub_ingredients": [
+            "lettuce",
+            "garlic",
+            "kimchi",
+            "red wine vinegar",
+            "bean sprouts",
+            "pickled cucumbers"
+        ],
+        "guide_steps_ko": [
+            "1. 잘 구워진 삼겹살(pork belly)을 준비합니다.",
+            "2. 상추(lettuce) 위에 고기를 올리고, 양념 소불고기 양념(red wine vinegar, soy sauce, mirin)을 발라줍니다.",
+            "3. 고추장(kimchi), 고추장(ssamjang), 대파(garlic), 오이무침(pickled cucumbers), 참기름(green onions) 등을 올려 먹습니다."
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head><title>결과</title></head>
+<body>
+    <h1>카메라 분석 결과</h1>
+    <img src="{{ image_url }}" alt="분석 이미지">
+
+    {% if recipes %}
+        <h2>추천 레시피</h2>
+        {% for recipe in recipes %}
+            <h3>{{ recipe.main_food }}</h3>
+            <ul>
+            {% for step in recipe.guide_steps_ko %}
+                <li>{{ step }}</li>
+            {% endfor %}
+            </ul>
+        {% endfor %}
+    {% else %}
+        <p>❌ 감지된 음식으로 만들 수 있는 레시피가 없습니다.</p>
+    {% endif %}
+</body>
+</html>
