@@ -1,5 +1,5 @@
-Flask
-gunicorn
-ultralytics
-opencv-python-headless
+flask
+scikit-learn
+pandas
 numpy
+joblib
